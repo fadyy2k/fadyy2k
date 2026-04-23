@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0ea5e9&height=200&section=header&text=Fady%20Mounir%20Zaghloul&fontSize=42&fontColor=e2e8f0&fontAlignY=38&desc=IT%20%26%20Security%20Manager%20%7C%20Cloud%20Infrastructure%20%7C%20DevOps%20%7C%20Platform%20Engineering&descSize=15&descAlignY=58&descColor=94a3b8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1f35,100:0ea5e9&amp;height=200&amp;section=header&amp;text=Fady%20Mounir%20Zaghloul&amp;fontSize=42&amp;fontColor=e2e8f0&amp;fontAlignY=38&amp;desc=IT%20%26%20Security%20Manager%20%7C%20Cloud%20Infrastructure%20%7C%20DevOps%20%7C%20Platform%20Engineering&amp;descSize=15&amp;descAlignY=58&amp;descColor=94a3b8" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=15%2B+production+services+across+multi-cloud+VPS+environments;OCI+migration+%E2%80%94+sub-1-minute+DNS-flip+rollback;Prometheus+%2B+Grafana+%E2%80%94+5+exporters%2C+custom+dashboards;CI%2FCD+across+7%2B+repos+with+least-privilege+deploy+keys;PostgreSQL+logical+replication+over+Tailscale+VPN)](https://git.io/typing-svg)
 
@@ -200,7 +200,7 @@ open_to:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1a1f35,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0ea5e9,50:1a1f35,100:0d1117&amp;height=100&amp;section=footer" />
 
 *Building infrastructure that stays up — and pipelines that ship.*
 
