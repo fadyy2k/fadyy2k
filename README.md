@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1f35,100:0ea5e9&amp;height=200&amp;section=header&amp;text=Fady%20Mounir%20Zaghloul&amp;fontSize=42&amp;fontColor=e2e8f0&amp;fontAlignY=38&amp;desc=IT%20%26%20Security%20Manager%20%7C%20Cloud%20Infrastructure%20%7C%20DevOps%20%7C%20Platform%20Engineering&amp;descSize=15&amp;descAlignY=58&amp;descColor=94a3b8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1f35,100:0ea5e9&amp;height=200&amp;section=header&amp;text=Fady%20Mounir%20Zaghloul&amp;fontSize=42&amp;fontColor=e2e8f0&amp;fontAlignY=38&amp;desc=Cloud%20Infrastructure%20%7C%20DevOps%20%7C%20Platform%20Engineering%20%7C%20Cybersecurity&amp;descSize=15&amp;descAlignY=58&amp;descColor=94a3b8" />
 
 <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" alt="coding" />
 
