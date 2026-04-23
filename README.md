@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1f35,100:0ea5e9&amp;height=200&amp;section=header&amp;text=Fady%20Mounir%20Zaghloul&amp;fontSize=42&amp;fontColor=e2e8f0&amp;fontAlignY=38&amp;desc=IT%20%26%20Security%20Manager%20%7C%20Cloud%20Infrastructure%20%7C%20DevOps%20%7C%20Platform%20Engineering&amp;descSize=15&amp;descAlignY=58&amp;descColor=94a3b8" />
 
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" alt="coding" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=15%2B+production+services+across+multi-cloud+VPS+environments;OCI+migration+%E2%80%94+sub-1-minute+DNS-flip+rollback;Prometheus+%2B+Grafana+%E2%80%94+5+exporters%2C+custom+dashboards;CI%2FCD+across+7%2B+repos+with+least-privilege+deploy+keys;PostgreSQL+logical+replication+over+Tailscale+VPN)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fady-mounir-601331b6/)
@@ -189,10 +191,10 @@ open_to:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=fadyy2k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyy2k&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=fadyy2k&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0ea5e9&amp;icon_color=0ea5e9&amp;text_color=94a3b8&amp;rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyy2k&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0ea5e9&amp;text_color=94a3b8&amp;langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=fadyy2k&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569" />
+<img src="https://streak-stats.demolab.com?user=fadyy2k&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=0ea5e9&amp;fire=0ea5e9&amp;currStreakLabel=94a3b8&amp;sideLabels=94a3b8&amp;dates=475569" />
 
 </div>
 
