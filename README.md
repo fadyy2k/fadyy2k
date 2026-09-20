@@ -203,6 +203,9 @@ This profile is built for fellow engineers: architecture, trade-offs, operationa
 
 <div align="center">
 
+<a href="https://github.com/fadyy2k/platform-engineering-eks-gitops">
+  <img src="https://img.shields.io/badge/Platform_Engineering-EKS_%7C_Terraform_%7C_ArgoCD-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Platform Engineering EKS GitOps" />
+</a>
 <a href="https://github.com/fadyy2k/depi-mind-app-v2">
   <img src="https://img.shields.io/badge/MIND_DevSecOps-Kubernetes_%7C_Jenkins_%7C_ArgoCD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="MIND DevSecOps" />
 </a>
@@ -212,9 +215,6 @@ This profile is built for fellow engineers: architecture, trade-offs, operationa
 
 <a href="https://github.com/fadyy2k/notesapp-multi-ec2-ansible">
   <img src="https://img.shields.io/badge/Multi--EC2_Ansible-AWS_%7C_Ansible_%7C_Nginx-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Multi EC2 Ansible" />
-</a>
-<a href="https://github.com/fadyy2k/aws-ec2-notesapp-devops">
-  <img src="https://img.shields.io/badge/AWS_EC2_Notes-App_%7C_Nginx_%7C_Backups-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2 Notes App" />
 </a>
 
 <a href="https://github.com/fadyy2k/depi-devsecops-showcase">
@@ -226,7 +226,7 @@ This profile is built for fellow engineers: architecture, trade-offs, operationa
 
 </div>
 
-> These are the six projects I keep front-and-center. The native GitHub **Pinned** cards below remain the source of truth for repository metadata.
+> These are the six projects I keep front-and-center. The new EKS/GitOps platform lab is the current infrastructure flagship.
 
 ---
 
