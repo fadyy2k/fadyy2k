@@ -63,7 +63,7 @@ A production-style public reference implementation that now covers:
 - policy/runtime security, reliability and cost controls separated into reviewable layers
 - live-cloud activation deliberately kept explicit rather than pretending unprovisioned infrastructure is running
 
-**→ [Repository](https://github.com/fadyy2k/platform-engineering-eks-gitops) · [Releases](https://github.com/fadyy2k/platform-engineering-eks-gitops/releases) · [Roadmap](https://github.com/fadyy2k/platform-engineering-eks-gitops/blob/main/docs/ROADMAP.md)**
+**→ [Documentation](https://fadyy2k.github.io/platform-engineering-eks-gitops/) · [Repository](https://github.com/fadyy2k/platform-engineering-eks-gitops) · [Releases](https://github.com/fadyy2k/platform-engineering-eks-gitops/releases)**
 
 ---
 
