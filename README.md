@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=15%2B+production+services+across+multi-cloud+VPS+environments;OCI+migration+%E2%80%94+sub-1-minute+DNS-flip+rollback;Prometheus+%2B+Grafana+%E2%80%94+5+exporters%2C+custom+dashboards;CI%2FCD+across+7%2B+repos+with+least-privilege+deploy+keys;PostgreSQL+logical+replication+over+Tailscale+VPN)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fady-mounir-601331b6/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white)](https://fady-mounir-zaghloul.s3.eu-west-1.amazonaws.com/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white)](https://fadyy2k.github.io/portfolio/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fady-mounir-zaghloul)
 [![Location](https://img.shields.io/badge/Cairo%2C%20Egypt-Open%20to%20EU%20%7C%20Germany%20%7C%20Remote-1e293b?style=for-the-badge&logo=googlemaps&logoColor=0ea5e9)](mailto:fadyy2k@gmail.com)
 
