@@ -199,6 +199,33 @@ This profile is built for fellow engineers: architecture, trade-offs, operationa
 
 ---
 
+## 🚀 Featured Engineering Repositories
+
+<div align="center">
+
+<a href="https://github.com/fadyy2k/depi-mind-app-v2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadyy2k&repo=depi-mind-app-v2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
+</a>
+<a href="https://github.com/fadyy2k/depi-helloapp-infra-v2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadyy2k&repo=depi-helloapp-infra-v2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
+</a>
+<a href="https://github.com/fadyy2k/notesapp-multi-ec2-ansible">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadyy2k&repo=notesapp-multi-ec2-ansible&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
+</a>
+<a href="https://github.com/fadyy2k/aws-ec2-notesapp-devops">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadyy2k&repo=aws-ec2-notesapp-devops&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
+</a>
+<a href="https://github.com/fadyy2k/depi-devsecops-showcase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadyy2k&repo=depi-devsecops-showcase&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
+</a>
+<a href="https://github.com/fadyy2k/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadyy2k&repo=portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
+</a>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
