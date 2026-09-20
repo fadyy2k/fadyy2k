@@ -23,11 +23,12 @@ role: IT & Security Manager → Platform / Infrastructure Engineer
 location: Nasr City, Cairo, Egypt
 target: EU / Germany / Remote
 experience: 12+ years across MENA
-current_employer: AsusCard FinTech + KounWorld SaaS (KSA expansion)
+current_role: IT & Security Manager @ AsusCard FinTech
+selected_project: KounWorld SaaS infrastructure & KSA expansion
 reporting_to: CTO (direct)
 
 current_focus:
-  - 6-phase OCI migration (KSA) — streaming replication + sub-1-min rollback
+  - KounWorld: 6-phase OCI migration (KSA) — streaming replication + sub-1-min rollback
   - 15+ production services across multi-tenant Ubuntu VPS environments
   - Prometheus + Grafana observability stack (5 exporters, custom dashboards)
   - Self-hosted LLM platform (Open WebUI + Ollama, Mac mini M4 Pro)
@@ -83,6 +84,17 @@ open_to:
 
 ---
 
+## 🧭 Engineer Notes
+
+This profile is built for fellow engineers: architecture, trade-offs, operational outcomes, and the parts that failed before they worked.
+
+- 🔐 Public examples are sanitized: no production credentials, customer data, private IP plans, or live control-plane endpoints.
+- 🧪 Lab projects are labeled as labs; production case studies are anonymized.
+- 📐 I prefer reproducible runbooks, rollback paths, observability, and least-privilege access over "works on my machine."
+- 📚 Selected sanitized write-ups: [Infrastructure Case Studies](./CASE_STUDIES.md)
+
+---
+
 ## 🏗️ Production Projects
 
 <details>
@@ -108,7 +120,7 @@ open_to:
 - 8 production domains: each with isolated PostgreSQL DB, Nginx vhost, Let's Encrypt SSL
 - CI/CD across 6 repos with per-repo SSH deploy keys and `rollback-to-safe-commit` logic
 - Cross-site PostgreSQL logical replication over Tailscale VPN — **sub-second lag**
-- Hardened sudoers, UFW (port 2222 LIMIT + 80/443 ALLOW), zero successful SSH lockouts
+- Hardened sudoers and UFW (restricted SSH + 80/443); no unauthorized SSH access observed during the documented monitoring window
 
 </details>
 
@@ -143,7 +155,7 @@ open_to:
 
 - 5 users across 3 RBAC groups; RAG-enabled Knowledge Base on internal SOPs and contracts
 - Custom PDF-export tool via weasyprint integrated into Workspace framework
-- **Zero external data egress · Zero recurring SaaS licensing cost**
+- **Designed for local inference with no intentional model-data egress · Zero recurring LLM SaaS licensing cost**
 
 </details>
 
