@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="180" viewBox="0 0 980 180" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering delivery flow</title>
+  <desc id="desc">Animated flow from GitHub through CI and security, Terraform, AWS EKS, GitOps, observability and cost controls.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="0.5" stop-color="#111827"/><stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#34d399"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="980" height="180" rx="18" fill="url(#bg)" stroke="#243244"/>
+  <g stroke="#1f2937" stroke-width="1" opacity=".35">
+    <path d="M0 45H980M0 90H980M0 135H980"/><path d="M140 0V180M280 0V180M420 0V180M560 0V180M700 0V180M840 0V180"/>
+  </g>
+  <path id="path" d="M95 90H885" fill="none" stroke="url(#line)" stroke-width="3" stroke-dasharray="8 10" opacity=".75"/>
+  <circle r="5" fill="#34d399" filter="url(#glow)"><animateMotion dur="4s" repeatCount="indefinite" path="M95 90H885"/></circle>
+  <circle r="4" fill="#38bdf8" filter="url(#glow)"><animateMotion dur="4s" begin="-2s" repeatCount="indefinite" path="M95 90H885"/></circle>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" text-anchor="middle">
+    <g transform="translate(95 90)"><rect x="-62" y="-30" width="124" height="60" rx="10" fill="#111827" stroke="#334155"/><text y="-4" fill="#e2e8f0" font-size="14" font-weight="700">GitHub</text><text y="15" fill="#94a3b8" font-size="10">source / PRs</text></g>
+    <g transform="translate(250 90)"><rect x="-66" y="-30" width="132" height="60" rx="10" fill="#111827" stroke="#334155"/><text y="-4" fill="#e2e8f0" font-size="14" font-weight="700">CI + Security</text><text y="15" fill="#94a3b8" font-size="10">CodeQL · Trivy</text></g>
+    <g transform="translate(405 90)"><rect x="-62" y="-30" width="124" height="60" rx="10" fill="#111827" stroke="#334155"/><text y="-4" fill="#e2e8f0" font-size="14" font-weight="700">Terraform</text><text y="15" fill="#94a3b8" font-size="10">IaC · OIDC</text></g>
+    <g transform="translate(560 90)"><rect x="-62" y="-30" width="124" height="60" rx="10" fill="#111827" stroke="#334155"/><text y="-4" fill="#e2e8f0" font-size="14" font-weight="700">AWS / EKS</text><text y="15" fill="#94a3b8" font-size="10">platform</text></g>
+    <g transform="translate(715 90)"><rect x="-62" y="-30" width="124" height="60" rx="10" fill="#111827" stroke="#334155"/><text y="-4" fill="#e2e8f0" font-size="14" font-weight="700">GitOps</text><text y="15" fill="#94a3b8" font-size="10">Argo CD · Cosign</text></g>
+    <g transform="translate(870 90)"><rect x="-70" y="-30" width="140" height="60" rx="10" fill="#111827" stroke="#334155"/><text y="-4" fill="#e2e8f0" font-size="14" font-weight="700">Operate</text><text y="15" fill="#94a3b8" font-size="10">SLO · cost · DR</text></g>
+  </g>
+</svg>
