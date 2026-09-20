@@ -98,7 +98,7 @@ This profile is built for fellow engineers: architecture, trade-offs, operationa
 ## 🏗️ Production Projects
 
 <details>
-<summary><b>🌐 Kounworld SaaS Infrastructure</b> — Multi-tenant platform, 7 Node.js services</summary>
+<summary><b>🌐 KounWorld SaaS Infrastructure</b> — Multi-tenant platform, 7 Node.js services</summary>
 
 > Ubuntu 24.04 · NestJS · Next.js · PM2 · Nginx · MySQL 8 · PostgreSQL 16 · Docker · GitHub Actions · Prometheus + Grafana · OCI
 
@@ -149,7 +149,7 @@ This profile is built for fellow engineers: architecture, trade-offs, operationa
 </details>
 
 <details>
-<summary><b>🤖 Internal AI Platform</b> — Self-hosted LLM, zero external data egress</summary>
+<summary><b>🤖 Internal AI Platform</b> — Self-hosted, local-first LLM platform</summary>
 
 > Open WebUI · Ollama · Mac mini M4 Pro (24GB) · qwen2.5:14b · RAG · pyodide · weasyprint
 
@@ -204,38 +204,47 @@ This profile is built for fellow engineers: architecture, trade-offs, operationa
 <div align="center">
 
 <a href="https://github.com/fadyy2k/depi-mind-app-v2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadyy2k&repo=depi-mind-app-v2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
+  <img src="https://img.shields.io/badge/MIND_DevSecOps-Kubernetes_%7C_Jenkins_%7C_ArgoCD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="MIND DevSecOps" />
 </a>
 <a href="https://github.com/fadyy2k/depi-helloapp-infra-v2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadyy2k&repo=depi-helloapp-infra-v2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
+  <img src="https://img.shields.io/badge/AWS_EKS_IaC-Terraform_%7C_Jenkins-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="AWS EKS Terraform" />
 </a>
+
 <a href="https://github.com/fadyy2k/notesapp-multi-ec2-ansible">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadyy2k&repo=notesapp-multi-ec2-ansible&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
+  <img src="https://img.shields.io/badge/Multi--EC2_Ansible-AWS_%7C_Ansible_%7C_Nginx-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Multi EC2 Ansible" />
 </a>
 <a href="https://github.com/fadyy2k/aws-ec2-notesapp-devops">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadyy2k&repo=aws-ec2-notesapp-devops&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
+  <img src="https://img.shields.io/badge/AWS_EC2_Notes-App_%7C_Nginx_%7C_Backups-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2 Notes App" />
 </a>
+
 <a href="https://github.com/fadyy2k/depi-devsecops-showcase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadyy2k&repo=depi-devsecops-showcase&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
+  <img src="https://img.shields.io/badge/DevSecOps_Showcase-React_%7C_Vite-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="DevSecOps Showcase" />
 </a>
 <a href="https://github.com/fadyy2k/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadyy2k&repo=portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
+  <img src="https://img.shields.io/badge/Engineering_Portfolio-GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Engineering Portfolio" />
 </a>
 
 </div>
+
+> These are the six projects I keep front-and-center. The native GitHub **Pinned** cards below remain the source of truth for repository metadata.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=fadyy2k&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0ea5e9&amp;icon_color=0ea5e9&amp;text_color=94a3b8&amp;rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyy2k&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0ea5e9&amp;text_color=94a3b8&amp;langs_count=8" />
+<img src="https://img.shields.io/github/followers/fadyy2k?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+<img src="https://img.shields.io/github/commit-activity/m/fadyy2k/depi-mind-app-v2?style=for-the-badge&logo=github&label=MIND%20commits%2Fmonth" alt="MIND monthly commit activity" />
+<img src="https://img.shields.io/github/last-commit/fadyy2k/depi-mind-app-v2?style=for-the-badge&logo=github&label=MIND%20last%20commit" alt="MIND last commit" />
 
-<img src="https://streak-stats.demolab.com?user=fadyy2k&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=0ea5e9&amp;fire=0ea5e9&amp;currStreakLabel=94a3b8&amp;sideLabels=94a3b8&amp;dates=475569" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=fadyy2k&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=0ea5e9&amp;fire=0ea5e9&amp;currStreakLabel=94a3b8&amp;sideLabels=94a3b8&amp;dates=475569" alt="GitHub contribution streak" />
 
 </div>
+
+> The native GitHub contribution graph below is the authoritative activity view; this section only adds a compact live engineering snapshot.
 
 ---
 
