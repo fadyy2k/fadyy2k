@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1f35,100:0ea5e9&amp;height=200&amp;section=header&amp;text=Fady%20Mounir%20Zaghloul&amp;fontSize=42&amp;fontColor=e2e8f0&amp;fontAlignY=38&amp;desc=Cloud%20Infrastructure%20%7C%20DevOps%20%7C%20Platform%20Engineering%20%7C%20Cybersecurity&amp;descSize=15&amp;descAlignY=58&amp;descColor=94a3b8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0ea5e9&height=190&section=header&text=Fady%20Mounir%20Zaghloul&fontSize=40&fontColor=e2e8f0&fontAlignY=38&desc=IT%20%26%20Security%20%7C%20Platform%20%26%20Infrastructure%20Engineering%20%7C%20DevSecOps&descSize=14&descAlignY=59&descColor=94a3b8" alt="Fady Mounir Zaghloul" />
 
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" alt="coding" />
+<img src="./assets/infra-flow.svg" width="900" alt="Animated engineering delivery flow from source control to platform operations" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=15%2B+production+services+across+multi-cloud+VPS+environments;OCI+migration+%E2%80%94+sub-1-minute+DNS-flip+rollback;Prometheus+%2B+Grafana+%E2%80%94+5+exporters%2C+custom+dashboards;CI%2FCD+across+7%2B+repos+with+least-privilege+deploy+keys;PostgreSQL+logical+replication+over+Tailscale+VPN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=0EA5E9&center=true&vCenter=true&width=780&lines=Design+for+rollback%2C+not+only+deployment;Short-lived+OIDC+credentials+over+stored+cloud+keys;Signed+artifacts+%2B+policy+before+runtime;SLOs+and+runbooks+before+dashboard+decoration;Public+evidence%2C+private+operational+detail)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fady-mounir-601331b6/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white)](https://fadyy2k.github.io/portfolio/)
+[![Engineering Case Studies](https://img.shields.io/badge/Case_Studies-Architecture_%7C_Reliability-34d399?style=for-the-badge&logo=readthedocs&logoColor=111827)](https://github.com/fadyy2k/engineering-case-studies)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fady-mounir-601331b6/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fady-mounir-zaghloul)
-[![Location](https://img.shields.io/badge/Cairo%2C%20Egypt-Open%20to%20EU%20%7C%20Germany%20%7C%20Remote-1e293b?style=for-the-badge&logo=googlemaps&logoColor=0ea5e9)](mailto:fadyy2k@gmail.com)
 
 </div>
 
@@ -19,239 +19,149 @@
 
 ```yaml
 name: Fady Mounir Zaghloul
-role: IT & Security Manager → Platform / Infrastructure Engineer
-location: Nasr City, Cairo, Egypt
-target: EU / Germany / Remote
-experience: 12+ years across MENA
 current_role: IT & Security Manager @ AsusCard FinTech
-selected_project: KounWorld SaaS infrastructure & KSA expansion
-reporting_to: CTO (direct)
+location: Cairo, Egypt
+experience: 12+ years across infrastructure, cloud, operations and security
 
-current_focus:
-  - KounWorld: 6-phase OCI migration (KSA) — streaming replication + sub-1-min rollback
-  - 15+ production services across multi-tenant Ubuntu VPS environments
-  - Prometheus + Grafana observability stack (5 exporters, custom dashboards)
-  - Self-hosted LLM platform (Open WebUI + Ollama, Mac mini M4 Pro)
+engineering_focus:
+  - platform and infrastructure engineering
+  - cloud architecture and migration
+  - DevSecOps and software supply-chain security
+  - observability, SLOs and operational reliability
+  - identity, endpoint and infrastructure security
 
 open_to:
-  - IT Manager / Infrastructure Lead
+  - Infrastructure / Platform Lead
   - Cloud / Platform Engineer
   - DevOps / SRE
+  - Security Architecture / Operations
 ```
 
----
+## 🧭 Engineering principles
 
-## ⚙️ Tech Stack
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware_ESXi-607078?style=flat-square&logo=vmware&logoColor=white)
-
-### 🐳 DevOps & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### 📊 Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-### 🔐 Security
-![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Fail2ban](https://img.shields.io/badge/Fail2Ban-CC0000?style=flat-square&logo=linux&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
-![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-
-### 🖥️ Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+- **Rollback is a feature.** A deployment path is incomplete until the known-good recovery path is documented and tested.
+- **Identity before static credentials.** Prefer short-lived OIDC/workload identity and least privilege over stored cloud keys.
+- **Security belongs in delivery.** Scan source/configuration, generate provenance/SBOM, sign artifacts, then enforce policy at admission/runtime.
+- **Operate from signals.** SLOs, error budgets, runbooks and recovery tests matter more than decorative dashboards.
+- **Public evidence ≠ public infrastructure.** Production write-ups are sanitized; credentials, live endpoints, private network plans and customer data stay private.
 
 ---
 
-## 🧭 Engineer Notes
+## 🚀 Current flagship — AWS EKS Platform Engineering
 
-This profile is built for fellow engineers: architecture, trade-offs, operational outcomes, and the parts that failed before they worked.
+<a href="https://github.com/fadyy2k/platform-engineering-eks-gitops">
+  <img src="https://img.shields.io/badge/Platform_Engineering-EKS_%7C_Terraform_%7C_Argo_CD-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="AWS EKS Platform Engineering" />
+</a>
 
-- 🔐 Public examples are sanitized: no production credentials, customer data, private IP plans, or live control-plane endpoints.
-- 🧪 Lab projects are labeled as labs; production case studies are anonymized.
-- 📐 I prefer reproducible runbooks, rollback paths, observability, and least-privilege access over "works on my machine."
-- 📚 Selected sanitized write-ups: [Infrastructure Case Studies](./CASE_STUDIES.md)
+A production-style public reference implementation that now covers:
+
+`Terraform` · `AWS EKS` · `GitHub OIDC` · `Argo CD` · `Cosign` · `Kyverno` · `Falco` · `Trivy Operator` · `Prometheus/Grafana` · `SLOs` · `OpenCost` · `VPA recommendations` · `backup/game-day patterns` · `DR architecture`
+
+- Five staged engineering releases from baseline through cost/multi-environment operations
+- protected `main`, required security checks and signed commits
+- project-owned container supply chain with provenance, SBOM, scanning and keyless signing
+- policy/runtime security, reliability and cost controls separated into reviewable layers
+- live-cloud activation deliberately kept explicit rather than pretending unprovisioned infrastructure is running
+
+**→ [Repository](https://github.com/fadyy2k/platform-engineering-eks-gitops) · [Releases](https://github.com/fadyy2k/platform-engineering-eks-gitops/releases) · [Roadmap](https://github.com/fadyy2k/platform-engineering-eks-gitops/blob/main/docs/ROADMAP.md)**
 
 ---
 
-## 🏗️ Production Projects
+## 🏗️ Sanitized production engineering
+
+Long-form production details no longer live in this profile. They are separated into sanitized case studies so the engineering decisions are public without publishing a real environment's attack surface.
+
+| Pattern | Focus |
+| --- | --- |
+| [Multi-tenant SaaS platform](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/01-multi-tenant-saas-platform.md) | isolation, releases, backups, observability, capacity |
+| [Cross-site PostgreSQL replication](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/02-cross-site-postgresql-replication.md) | private connectivity, replication health, rollback |
+| [Cloud migration with rollback](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/03-cloud-migration-with-rollback.md) | replication-first cutover, DNS, failback |
+| [Observability baseline](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/04-observability-baseline.md) | signals, alerts, runbooks |
+| [Identity hardening](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/05-identity-security-hardening.md) | MFA, mail security, DLP, rollout safety |
+| [Local-first internal AI](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/06-local-first-ai-platform.md) | data boundaries, RBAC, RAG, plugin/network risk |
+
+**→ [Engineering Case Studies](https://github.com/fadyy2k/engineering-case-studies)**
+
+---
+
+## 🧰 Engineering stack
 
 <details>
-<summary><b>🌐 KounWorld SaaS Infrastructure</b> — Multi-tenant platform, 7 Node.js services</summary>
+<summary><b>Cloud, platform, automation and security</b></summary>
 
-> Ubuntu 24.04 · NestJS · Next.js · PM2 · Nginx · MySQL 8 · PostgreSQL 16 · Docker · GitHub Actions · Prometheus + Grafana · OCI
+### Cloud / Infrastructure
+`AWS` · `OCI` · `Linux` · `Terraform` · `Kubernetes / EKS / K3s` · `Argo CD` · `Nginx` · `Proxmox` · `VMware`
 
-- Hardened VPS: SSH on port 2222, key-only auth, UFW default-deny, Fail2ban, unattended-upgrades
-- 7 PM2-managed services behind 10+ Nginx vhosts with Let's Encrypt + Cloudflare orange-cloud
-- Deployed Prometheus + Grafana with 5 exporters and 6 dashboards (2 custom)
-- Automated nightly DB backups: 5 databases → gzip → rclone → Google Drive
-- Reduced PostgreSQL idle connections **46 → 9 (80% cut)** via per-service `connection_limit`
-- Containerized auth service as 99.8MB multi-stage Alpine image on GHCR
-- **Active 6-phase OCI migration** with streaming replication and sub-1-minute DNS-flip rollback
+### Delivery / Automation
+`GitHub Actions` · `Jenkins` · `Docker / BuildKit` · `Ansible` · `Bash` · `Python` · `PM2`
 
-</details>
+### Security
+`Microsoft Defender` · `FortiGate` · `CodeQL` · `Gitleaks` · `Trivy` · `Cosign` · `Kyverno` · `Falco` · `Tailscale`
 
-<details>
-<summary><b>🖥️ Edaraasus VPS</b> — 8 production apps, single server, zero downtime</summary>
+### Observability / Reliability
+`Prometheus` · `Grafana` · `SLO / error-budget alerts` · `OpenCost` · `game-day / recovery testing`
 
-> Ubuntu 24.04 · Next.js · NestJS · Express · React/Vite · PostgreSQL 14/16 · Tailscale · GitHub Actions
-
-- 8 production domains: each with isolated PostgreSQL DB, Nginx vhost, Let's Encrypt SSL
-- CI/CD across 6 repos with per-repo SSH deploy keys and `rollback-to-safe-commit` logic
-- Cross-site PostgreSQL logical replication over Tailscale VPN — **sub-second lag**
-- Hardened sudoers and UFW (restricted SSH + 80/443); no unauthorized SSH access observed during the documented monitoring window
-
-</details>
-
-<details>
-<summary><b>⚡ AsusCard On-Prem Refresh</b> — Proxmox VE remediation + infrastructure plan</summary>
-
-> Proxmox VE 6.17 · HPE ProLiant Gen10 · FortiGate 60F · Synology NAS · 3CX VoIP · OCI
-
-- Diagnosed and resolved VM 100 `io-error` — `hdd-storage` at 100% capacity (875 GB)
-- Provisioned 1TB expansion with UUID-persistent `fstab` (`nofail` + boot timeout)
-- Designed full refresh: dual HPE DL380/DL360, FortiGate dual-WAN, 3CX Cairo↔KSA hybrid VoIP
-- Delivered bilingual EN + AR-RTL executive decks to CTO and CEO
-
-</details>
-
-<details>
-<summary><b>🔒 Google Workspace Hardening</b> — Two production domains, enterprise baseline</summary>
-
-> Google Workspace Admin · Cloudflare DNS · SPF / DKIM / DMARC · Python + openpyxl
-
-- 2FA: **0% → 100%** enforcement across all active accounts
-- DMARC: **p=none → p=reject** in a single setup window
-- Full SPF + DKIM on Cloudflare DNS; Drive external sharing restricted; DLP rules for PCI and national-ID data
-- Automated 18-task rollout plan in Python/openpyxl for second domain
-
-</details>
-
-<details>
-<summary><b>🤖 Internal AI Platform</b> — Self-hosted, local-first LLM platform</summary>
-
-> Open WebUI · Ollama · Mac mini M4 Pro (24GB) · qwen2.5:14b · RAG · pyodide · weasyprint
-
-- 5 users across 3 RBAC groups; RAG-enabled Knowledge Base on internal SOPs and contracts
-- Custom PDF-export tool via weasyprint integrated into Workspace framework
-- **Designed for local inference with no intentional model-data egress · Zero recurring LLM SaaS licensing cost**
-
-</details>
-
-<details>
-<summary><b>🪵 Woodeq Admin Dashboard</b> — .NET 8 · SQL Server 2022 · One-command deploy</summary>
-
-> .NET 8 · C# · EF Core 8 · React + Vite · TypeScript · SQL Server 2022 · Nginx · systemd · Bash
-
-- One-command `woodeq-deploy`: DB backup → git pull → EF migration sync → build → atomic symlink → restart
-- Pre-deploy `BACKUP DATABASE` via sqlcmd with abort-on-failure guard
-- EF Core migration-history reconciliation script — eliminated "object already exists" crash on every deploy
-- `flock` lock file prevents concurrent deploys corrupting release state
-
-</details>
-
-<details>
-<summary><b>🌱 Sedra VPS</b> — SQL Server replication master + webhook CI/CD</summary>
-
-> Ubuntu 22.04 · MS SQL Server 2022 · Nginx · Let's Encrypt · Node.js · React + Vite · systemd
-
-- Restored SEDRA database from Windows-origin `.bak` to Linux (`WITH MOVE`)
-- GitHub-webhook CI/CD: HMAC-verified Node.js listener → `deploy.sh` on every push to `main`
-- Zero-downtime, zero-touch deploys; Let's Encrypt auto-renewing; ~90% SSH bot noise reduction
+### Data / Application
+`PostgreSQL` · `MySQL / MariaDB` · `SQL Server` · `Redis` · `Node.js` · `NestJS` · `FastAPI` · `.NET`
 
 </details>
 
 ---
 
-## 🏅 Certifications
+## 🏅 Credentials
 
-| Vendor | Certification |
-|--------|--------------|
-| ![Microsoft](https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | **SC-100** Cybersecurity Architect Expert · **SC-200** Security Operations Analyst |
-| ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900) | **SAA-C03** Solutions Architect Associate · **CLF-C02** Cloud Practitioner — *valid Nov 2027* |
-| ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | **CCNA** 200-301 · **CyberOps Associate** 200-201 CBROPS |
-| ![IBM](https://img.shields.io/badge/-IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) | Cloud Professional Architect · Cloud SRE · SkillsBuild Cybersecurity *(ACE Endorsed)* |
-| ![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=google&logoColor=white) | IT Support Professional · Security in Google Cloud |
-| 🎓 NTI / MCIT | DEPI Cisco Cybersecurity Engineer · Post Graduate Diploma AI & Modern Technologies *(Distinction)* |
+<details>
+<summary><b>Selected certifications and training</b></summary>
 
-> 30+ verifiable credentials → [credly.com/users/fady-mounir-zaghloul](https://www.credly.com/users/fady-mounir-zaghloul)
+| Vendor | Selected credentials |
+| --- | --- |
+| Microsoft | **SC-100** Cybersecurity Architect Expert · **SC-200** Security Operations Analyst |
+| AWS | **SAA-C03** Solutions Architect Associate · **CLF-C02** Cloud Practitioner |
+| Cisco | **CCNA** · **CyberOps Associate** |
+| IBM | Cloud Professional Architect · Cloud SRE · SkillsBuild Cybersecurity |
+| Google | IT Support Professional · Security in Google Cloud |
+| NTI / MCIT | DEPI Cisco Cybersecurity Engineer · Post Graduate Diploma AI & Modern Technologies |
+
+**30+ verifiable credentials → [Credly](https://www.credly.com/users/fady-mounir-zaghloul)**
+
+</details>
 
 ---
 
-## 🚀 Featured Engineering Repositories
+## 🔬 Featured engineering repositories
 
 <div align="center">
 
-<a href="https://github.com/fadyy2k/platform-engineering-eks-gitops">
-  <img src="https://img.shields.io/badge/Platform_Engineering-EKS_%7C_Terraform_%7C_ArgoCD-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Platform Engineering EKS GitOps" />
-</a>
-<a href="https://github.com/fadyy2k/depi-mind-app-v2">
-  <img src="https://img.shields.io/badge/MIND_DevSecOps-Kubernetes_%7C_Jenkins_%7C_ArgoCD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="MIND DevSecOps" />
-</a>
-<a href="https://github.com/fadyy2k/depi-helloapp-infra-v2">
-  <img src="https://img.shields.io/badge/AWS_EKS_IaC-Terraform_%7C_Jenkins-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="AWS EKS Terraform" />
-</a>
+<a href="https://github.com/fadyy2k/platform-engineering-eks-gitops"><img src="https://img.shields.io/badge/01_Platform_Engineering-EKS_%7C_GitOps_%7C_SRE-844FBA?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Platform engineering" /></a>
+<a href="https://github.com/fadyy2k/depi-mind-app-v2"><img src="https://img.shields.io/badge/02_MIND_DevSecOps-Jenkins_%7C_Argo_CD-326CE5?style=for-the-badge&logo=jenkins&logoColor=white" alt="MIND DevSecOps" /></a>
+<a href="https://github.com/fadyy2k/depi-helloapp-infra-v2"><img src="https://img.shields.io/badge/03_AWS_EKS_IaC-Terraform_%7C_IAM-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="AWS EKS infrastructure" /></a>
 
-<a href="https://github.com/fadyy2k/notesapp-multi-ec2-ansible">
-  <img src="https://img.shields.io/badge/Multi--EC2_Ansible-AWS_%7C_Ansible_%7C_Nginx-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Multi EC2 Ansible" />
-</a>
-
-<a href="https://github.com/fadyy2k/depi-devsecops-showcase">
-  <img src="https://img.shields.io/badge/DevSecOps_Showcase-React_%7C_Vite-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="DevSecOps Showcase" />
-</a>
-<a href="https://github.com/fadyy2k/portfolio">
-  <img src="https://img.shields.io/badge/Engineering_Portfolio-GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Engineering Portfolio" />
-</a>
+<a href="https://github.com/fadyy2k/notesapp-multi-ec2-ansible"><img src="https://img.shields.io/badge/04_Ansible_Automation-AWS_%7C_Nginx-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible automation" /></a>
+<a href="https://github.com/fadyy2k/depi-devsecops-showcase"><img src="https://img.shields.io/badge/05_Architecture_Showcase-React_%7C_Vite-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="Architecture showcase" /></a>
+<a href="https://github.com/fadyy2k/engineering-case-studies"><img src="https://img.shields.io/badge/06_Case_Studies-Architecture_%7C_Operations-34d399?style=for-the-badge&logo=readthedocs&logoColor=111827" alt="Engineering case studies" /></a>
 
 </div>
 
-> These are the six projects I keep front-and-center. The new EKS/GitOps platform lab is the current infrastructure flagship.
-
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub activity
 
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/fadyy2k?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-<img src="https://img.shields.io/github/commit-activity/m/fadyy2k/depi-mind-app-v2?style=for-the-badge&logo=github&label=MIND%20commits%2Fmonth" alt="MIND monthly commit activity" />
-<img src="https://img.shields.io/github/last-commit/fadyy2k/depi-mind-app-v2?style=for-the-badge&logo=github&label=MIND%20last%20commit" alt="MIND last commit" />
+<img src="https://img.shields.io/github/last-commit/fadyy2k/platform-engineering-eks-gitops?style=for-the-badge&logo=github&label=Platform%20last%20commit" alt="Platform last commit" />
+<img src="https://img.shields.io/github/v/release/fadyy2k/platform-engineering-eks-gitops?style=for-the-badge&logo=github&label=Platform%20release" alt="Platform release" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=fadyy2k&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=0ea5e9&amp;fire=0ea5e9&amp;currStreakLabel=94a3b8&amp;sideLabels=94a3b8&amp;dates=475569" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=fadyy2k&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0ea5e9&fire=34d399&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569" alt="GitHub contribution streak" />
 
 </div>
-
-> The native GitHub contribution graph below is the authoritative activity view; this section only adds a compact live engineering snapshot.
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1a1f35,100:0d1117&height=100&section=footer" alt="footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0ea5e9,50:1a1f35,100:0d1117&amp;height=100&amp;section=footer" />
-
-*Building infrastructure that stays up — and pipelines that ship.*
-
+*Build for the failure path. Document the recovery path.*
 </div>
