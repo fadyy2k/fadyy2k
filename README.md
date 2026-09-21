@@ -10,6 +10,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white)](https://fadyy2k.github.io/portfolio/)
 [![Engineering Case Studies](https://img.shields.io/badge/Case_Studies-Architecture_%7C_Reliability-34d399?style=for-the-badge&logo=readthedocs&logoColor=111827)](https://github.com/fadyy2k/engineering-case-studies)
+[![Selected Engineering Delivery](https://img.shields.io/badge/Delivery_Board-Selected_Engineering_Work-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/fadyy2k/projects/1)
+[![Engineering Lab Roadmap](https://img.shields.io/badge/Lab_Roadmap-Platform_%7C_DevSecOps-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/fadyy2k/projects/2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fady-mounir-601331b6/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fady-mounir-zaghloul)
 
