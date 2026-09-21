@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0ea5e9&height=190&section=header&text=Fady%20Mounir%20Zaghloul&fontSize=40&fontColor=e2e8f0&fontAlignY=38&desc=IT%20%26%20Security%20%7C%20Platform%20%26%20Infrastructure%20Engineering%20%7C%20DevSecOps&descSize=14&descAlignY=59&descColor=94a3b8" alt="Fady Mounir Zaghloul" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0ea5e9&height=190&section=header&text=Fady%20Mounir%20Zaghloul&fontSize=40&fontColor=e2e8f0&fontAlignY=38&desc=IT%20Security%20%7C%20Platform%20and%20Infrastructure%20Engineering%20%7C%20DevSecOps&descSize=14&descAlignY=59&descColor=94a3b8" alt="Fady Mounir Zaghloul" />
 
 <img src="./assets/infra-flow.svg" width="900" alt="Animated engineering delivery flow from source control to platform operations" />
+
+<img src="./assets/coding.gif" width="480" alt="Coding animation" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=0EA5E9&center=true&vCenter=true&width=780&lines=Design+for+rollback%2C+not+only+deployment;Short-lived+OIDC+credentials+over+stored+cloud+keys;Signed+artifacts+%2B+policy+before+runtime;SLOs+and+runbooks+before+dashboard+decoration;Public+evidence%2C+private+operational+detail)](https://git.io/typing-svg)
 
