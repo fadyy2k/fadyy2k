@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0ea5e9&height=190&section=header&text=Fady%20Mounir%20Zaghloul&fontSize=40&fontColor=e2e8f0&fontAlignY=38&desc=IT%20Security%20%7C%20Platform%20and%20Infrastructure%20Engineering%20%7C%20DevSecOps&descSize=14&descAlignY=59&descColor=94a3b8" alt="Fady Mounir Zaghloul" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0ea5e9&height=190&section=header&text=Fady%20Mounir%20Zaghloul&fontSize=40&fontColor=e2e8f0&fontAlignY=38&desc=IT%20and%20Security%20%7C%20Platform%20and%20Infrastructure%20Engineering%20%7C%20DevSecOps&descSize=14&descAlignY=59&descColor=94a3b8" alt="Fady Mounir Zaghloul" />
 
 <img src="./assets/infra-flow.svg" width="900" alt="Animated engineering delivery flow from source control to platform operations" />
 
