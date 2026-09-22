@@ -61,13 +61,14 @@ A production-style public reference implementation that now covers:
 
 `Terraform` · `AWS EKS` · `GitHub OIDC` · `Argo CD` · `Cosign` · `Kyverno` · `Falco` · `Trivy Operator` · `Prometheus/Grafana` · `SLOs` · `OpenCost` · `VPA recommendations` · `backup/game-day patterns` · `DR architecture`
 
-- Five staged engineering releases from baseline through cost/multi-environment operations
+- Seven staged engineering releases from baseline through live-readiness and local runtime evidence
 - protected `main`, required security checks and signed commits
 - project-owned container supply chain with provenance, SBOM, scanning and keyless signing
 - policy/runtime security, reliability and cost controls separated into reviewable layers
+- real Kubernetes 1.36 local runtime evidence: Argo CD, Kyverno admission, Prometheus/SLOs, Trivy, Falco, VPA, OpenCost and a controlled recovery game day
 - live-cloud activation deliberately kept explicit rather than pretending unprovisioned infrastructure is running
 
-**→ [Documentation](https://fadyy2k.github.io/platform-engineering-eks-gitops/) · [Repository](https://github.com/fadyy2k/platform-engineering-eks-gitops) · [Releases](https://github.com/fadyy2k/platform-engineering-eks-gitops/releases)**
+**→ [Documentation](https://fadyy2k.github.io/platform-engineering-eks-gitops/) · [Local Runtime Evidence](https://fadyy2k.github.io/platform-engineering-eks-gitops/LOCAL_RUNTIME/) · [Repository](https://github.com/fadyy2k/platform-engineering-eks-gitops) · [v0.7.0](https://github.com/fadyy2k/platform-engineering-eks-gitops/releases/tag/v0.7.0)**
 
 ---
 
