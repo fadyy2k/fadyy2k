@@ -68,7 +68,7 @@ A production-style public reference implementation that now covers:
 - real Kubernetes 1.36 local runtime evidence: Argo CD, Kyverno admission, Prometheus/SLOs, Trivy, Falco, VPA, OpenCost and a controlled recovery game day
 - live-cloud activation deliberately kept explicit rather than pretending unprovisioned infrastructure is running
 
-**→ [Documentation](https://fadyy2k.github.io/platform-engineering-eks-gitops/) · [Local Runtime Evidence](https://fadyy2k.github.io/platform-engineering-eks-gitops/LOCAL_RUNTIME/) · [Repository](https://github.com/fadyy2k/platform-engineering-eks-gitops) · [v0.7.0](https://github.com/fadyy2k/platform-engineering-eks-gitops/releases/tag/v0.7.0)**
+**→ [Documentation](https://fadyy2k.github.io/platform-engineering-eks-gitops/) · [Local Runtime Evidence](https://fadyy2k.github.io/platform-engineering-eks-gitops/LOCAL_RUNTIME/) · [Repository](https://github.com/fadyy2k/platform-engineering-eks-gitops) · [v0.7.1](https://github.com/fadyy2k/platform-engineering-eks-gitops/releases/tag/v0.7.1)**
 
 ---
 
