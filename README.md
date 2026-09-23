@@ -5,7 +5,7 @@
 
 <br>
 
-<a href="https://github.com/fadyy2k"><img src="https://avatars.githubusercontent.com/u/133204319?v=4" width="118" alt="Fady's profile photo" /></a>
+<a href="https://github.com/fadyy2k"><img src="https://avatars.githubusercontent.com/u/133204319?v=4" width="148" alt="Fady's profile photo" /></a>
 
 ### Hey, I'm Fady. 👋
 **I fix the things people can't see — so they can keep doing the things that matter.**
