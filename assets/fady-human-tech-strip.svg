@@ -28,6 +28,7 @@
 <circle cx="947" cy="53" r="200" fill="url(#glow)"/>
 <path d="M25 51H1055M25 307H1055" fill="none" stroke="#34345f" stroke-width="1"/>
 <path d="M25 51H280M800 307H1055" fill="none" stroke="url(#neon)" stroke-width="2" stroke-linecap="round"/>
+<path d="M25 51H280M800 307H1055" fill="none" stroke="#b6ff8a" stroke-width="2.8" stroke-linecap="round" stroke-dasharray="36 260" opacity=".7"><animate attributeName="stroke-dashoffset" from="296" to="-296" dur="6s" repeatCount="indefinite"/></path>
 <g font-family="Consolas,Menlo,monospace">
   <circle cx="38" cy="29" r="3.5" fill="#b9ff8d" filter="url(#dotglow)">
     <animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/>
@@ -43,6 +44,7 @@
   <text x="35" y="118" font-size="55" font-weight="900" letter-spacing="-2" fill="url(#headline)">THE ENGINE</text>
   <text x="35" y="180" font-size="65" font-weight="900" letter-spacing="-2.2" fill="url(#headline)">ROOM<tspan fill="#b8ff89">.</tspan></text>
   <path d="M38 195H427" stroke="url(#neon)" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M38 195H427" stroke="#d6fcff" stroke-width="4" stroke-linecap="round" stroke-dasharray="64 400" opacity=".55"><animate attributeName="stroke-dashoffset" from="464" to="-464" dur="7.5s" repeatCount="indefinite"/></path>
   <text x="38" y="225" fill="#e1e4f4" font-size="16" font-weight="700">Where I build the systems</text>
   <text x="38" y="249" fill="#e1e4f4" font-size="16" font-weight="700">that keep everything running.</text>
   <text x="38" y="286" fill="#8997be" font-family="Consolas,Menlo,monospace" font-size="10.7" letter-spacing=".6">PLATFORM TO PRODUCTION / 24x7 MINDSET</text>
@@ -58,7 +60,7 @@
       <rect x="24" y="35" width="16" height="16" rx="3"/>
       <rect x="48" y="60" width="16" height="16" rx="3"/>
       <rect x="12" y="65" width="16" height="16" rx="3"/>
-      <path d="M32 51v10l24 0M32 62H20v3" fill="none"/>
+      <path d="M32 51v10l24 0M32 62H20v3" fill="none"/><circle cx="56" cy="61" r="3" fill="#e4dbff" stroke="none" filter="url(#dotglow)"><animate attributeName="opacity" values=".25;1;.25" dur="2.5s" repeatCount="indefinite"/></circle>
     </g>
     <text x="90" y="47" fill="#eeeaff" font-size="16.7" font-weight="900" letter-spacing=".35">PLATFORM</text>
     <text x="90" y="65" fill="#a89bda" font-family="Consolas,monospace" font-size="10.2">DESIGN + SCALE</text>
@@ -70,7 +72,7 @@
     <path d="M12 15H62" stroke="#54d7f4" stroke-width="2" stroke-linecap="round"/>
     <g fill="none" stroke="#5ae1ff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
       <path d="M33 43L21 54l12 11M52 43l12 11-12 11M48 38L38 71"/>
-      <path d="M66 30c8 5 13 13 13 23M79 53l-6-7M79 53l6-6" stroke-width="1.8"/>
+      <path d="M66 30c8 5 13 13 13 23M79 53l-6-7M79 53l6-6" stroke-width="1.8"><animate attributeName="opacity" values=".4;1;.4" dur="2.8s" repeatCount="indefinite"/></path>
     </g>
     <text x="87" y="47" fill="#ddfaff" font-size="16.3" font-weight="900" letter-spacing=".1">AUTOMATION</text>
     <text x="87" y="65" fill="#86ccdf" font-family="Consolas,monospace" font-size="10.2">REPEAT, RELIABLY</text>
@@ -85,6 +87,7 @@
       <circle cx="56" cy="36" r="9" stroke-width="1.5" stroke-dasharray="3 3"/>
       <path d="M62 42l7 8" stroke-width="1.5"/>
     </g>
+    <circle r="2.8" fill="#ccf1ff" opacity=".85" filter="url(#dotglow)"><animateMotion path="M12 58h11l7-14 10 27 9-18 7 5h11" dur="4.5s" repeatCount="indefinite"/></circle>
     <text x="86" y="47" fill="#e8edff" font-size="13.8" font-weight="900" letter-spacing="-.15">OBSERVABILITY</text>
     <text x="86" y="65" fill="#a5b5ea" font-family="Consolas,monospace" font-size="10.2">SIGNALS, NOT NOISE</text>
     <text x="16" y="91" fill="#899ace" font-family="Consolas,monospace" font-size="9.2" letter-spacing=".4">KNOW BEFORE YOU GUESS</text>
@@ -97,6 +100,7 @@
       <path d="M67 49a24 24 0 1 0 2 20M69 35v17H52"/>
       <path d="M30 54l11 10 21-22" stroke-width="2.1"/>
     </g>
+    <circle cx="45" cy="57" r="29" fill="none" stroke="#baff91" stroke-width="2" stroke-dasharray="9 182" opacity=".7"><animateTransform attributeName="transform" type="rotate" from="0 45 57" to="360 45 57" dur="9s" repeatCount="indefinite"/></circle>
     <text x="87" y="47" fill="#ecffdf" font-size="16.3" font-weight="900">RESILIENCE</text>
     <text x="87" y="65" fill="#b6daa2" font-family="Consolas,monospace" font-size="10.2">READY TO RECOVER</text>
     <text x="16" y="91" fill="#98c088" font-family="Consolas,monospace" font-size="9.2" letter-spacing=".4">FAIL / LEARN / IMPROVE</text>
