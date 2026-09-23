@@ -2,12 +2,12 @@
 <title id="title">EKS / IaC</title><desc id="desc">INFRASTRUCTURE. Cloud patterns as code.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c3147"/><stop offset="1" stop-color="#0b1a34"/></linearGradient></defs>
 <rect x="1" y="1" width="346" height="178" rx="15" fill="url(#bg)" stroke="#67e0fc" stroke-opacity=".65" stroke-width="1.5"/>
-<path d="M16 31H330" stroke="#67e0fc" opacity=".4"/>
+<path d="M16 31H330" stroke="#67e0fc" opacity=".4"/><circle cx="18" cy="31" r="2.4" fill="#67e0fc"><animate attributeName="cx" values="18;328;18" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;1;.15" dur="8s" repeatCount="indefinite"/></circle>
 <text x="17" y="22" fill="#67e0fc" font-family="Consolas,monospace" font-size="10.5" letter-spacing="1.1">03 / SIDE QUEST</text>
 <text x="17" y="68" fill="#f4f2ff" font-family="Arial,sans-serif" font-size="27" font-weight="800">EKS / IaC</text>
 <text x="18" y="93" fill="#67e0fc" font-family="Consolas,monospace" font-size="12">INFRASTRUCTURE</text>
 <text x="18" y="126" fill="#b9c4df" font-family="Arial,sans-serif" font-size="12.5">Cloud patterns as code.</text>
-<path d="M261 84q-8-22 14-31q12-24 37-9q22-3 24 19q18 12 0 31h-57q-15 0-18-10Z" fill="none" stroke="#67e0fc" stroke-width="2.3"/><path d="M296 64V99M286 89l10 10 10-10" fill="none" stroke="#67e0fc" stroke-width="2"/>
-<path d="M17 150H330" stroke="#67e0fc" opacity=".32"/>
+<path d="M261 84q-8-22 14-31q12-24 37-9q22-3 24 19q18 12 0 31h-57q-15 0-18-10Z" fill="none" stroke="#67e0fc" stroke-width="2.3"/><path d="M296 64V99M286 89l10 10 10-10" fill="none" stroke="#67e0fc" stroke-width="2"><animateTransform attributeName="transform" type="translate" values="0 -3;0 3;0 -3" dur="3.8s" repeatCount="indefinite"/></path>
+<path d="M17 150H330" stroke="#67e0fc" opacity=".32"/><path d="M17 150H330" stroke="#67e0fc" stroke-width="2" stroke-linecap="round" stroke-dasharray="34 279" opacity=".78"><animate attributeName="stroke-dashoffset" from="313" to="-313" dur="6.5s" repeatCount="indefinite"/></path>
 <text x="18" y="166" font-family="Consolas,monospace" font-size="10" fill="#8f9eba">VIEW SOURCE &gt;</text>
 </svg>
