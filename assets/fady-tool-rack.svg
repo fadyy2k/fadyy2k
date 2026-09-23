@@ -24,33 +24,33 @@
 </g>
 <g transform="translate(284 55)" font-family="Arial,Helvetica,sans-serif">
 <rect width="244" height="88" rx="12" fill="#111731" stroke="#343B60" stroke-width="1.15"/>
-<path d="M13 12H69" stroke="#A978EF" stroke-width="2.3" stroke-linecap="round"/>
-<rect x="13" y="19" width="60" height="53" rx="9" fill="#A978EF" fill-opacity=".06" stroke="#A978EF" stroke-width=".7" stroke-opacity=".3"/>
-<g transform="translate(-3 -2) scale(.67)"><g stroke="#A978EF" stroke-width="1.7" fill="#A978EF" fill-opacity=".28"><path d="M31 21 44 28v15L31 36Z"/><path d="M45 28 58 21v15L45 43Z"/><path d="M31 40 44 47v15L31 55Z"/><path d="M60 40 73 47v15L60 55Z"/></g></g>
+<path d="M13 12H69" stroke="#844FBA" stroke-width="2.3" stroke-linecap="round"/>
+<rect x="13" y="19" width="60" height="53" rx="9" fill="#844FBA" fill-opacity=".06" stroke="#844FBA" stroke-width=".7" stroke-opacity=".3"/>
+<g transform="translate(-3 -2) scale(.67)"><g stroke="#844FBA" stroke-width="1.7" fill="#844FBA" fill-opacity=".28"><path d="M31 21 44 28v15L31 36Z"/><path d="M45 28 58 21v15L45 43Z"/><path d="M31 40 44 47v15L31 55Z"/><path d="M60 40 73 47v15L60 55Z"/></g></g>
 <text x="84" y="35" fill="#F1F3FF" font-size="17.5" font-weight="900">TERRAFORM</text>
-<text x="84" y="55" fill="#A978EF" font-family="Consolas,monospace" font-size="8.7" letter-spacing=".25">INFRASTRUCTURE AS CODE</text>
-<path d="M15 77H227" stroke="#A978EF" opacity=".37" stroke-width=".85"/>
-<circle cx="226" cy="14" r="2.4" fill="#A978EF" opacity=".65"/>
+<text x="84" y="55" fill="#844FBA" font-family="Consolas,monospace" font-size="8.7" letter-spacing=".25">INFRASTRUCTURE AS CODE</text>
+<path d="M15 77H227" stroke="#844FBA" opacity=".37" stroke-width=".85"/>
+<circle cx="226" cy="14" r="2.4" fill="#844FBA" opacity=".65"/>
 </g>
 <g transform="translate(548 55)" font-family="Arial,Helvetica,sans-serif">
 <rect width="244" height="88" rx="12" fill="#111731" stroke="#343B60" stroke-width="1.15"/>
-<path d="M13 12H69" stroke="#4E83FC" stroke-width="2.3" stroke-linecap="round"/>
-<rect x="13" y="19" width="60" height="53" rx="9" fill="#4E83FC" fill-opacity=".06" stroke="#4E83FC" stroke-width=".7" stroke-opacity=".3"/>
-<g transform="translate(-3 -2) scale(.67)"><g stroke="#4E83FC" stroke-width="2.1" fill="none"><circle cx="51" cy="44" r="23"/><circle cx="51" cy="44" r="8"/><path d="M51 21v15m0 16v15M28 44h15m16 0h15M34 27l12 12m11 11 11 11M68 27 57 39M45 50 34 61"/><g fill="#4E83FC" stroke="none"><circle cx="51" cy="21" r="3"/><circle cx="74" cy="44" r="3"/><circle cx="28" cy="44" r="3"/></g></g></g>
+<path d="M13 12H69" stroke="#326CE5" stroke-width="2.3" stroke-linecap="round"/>
+<rect x="13" y="19" width="60" height="53" rx="9" fill="#326CE5" fill-opacity=".06" stroke="#326CE5" stroke-width=".7" stroke-opacity=".3"/>
+<g transform="translate(-3 -2) scale(.67)"><g stroke="#326CE5" stroke-width="2.1" fill="none"><circle cx="51" cy="44" r="23"/><circle cx="51" cy="44" r="8"/><path d="M51 21v15m0 16v15M28 44h15m16 0h15M34 27l12 12m11 11 11 11M68 27 57 39M45 50 34 61"/><g fill="#326CE5" stroke="none"><circle cx="51" cy="21" r="3"/><circle cx="74" cy="44" r="3"/><circle cx="28" cy="44" r="3"/></g></g></g>
 <text x="84" y="35" fill="#F1F3FF" font-size="17.5" font-weight="900">KUBERNETES</text>
-<text x="84" y="55" fill="#4E83FC" font-family="Consolas,monospace" font-size="9.8" letter-spacing=".25">ORCHESTRATION</text>
-<path d="M15 77H227" stroke="#4E83FC" opacity=".37" stroke-width=".85"/>
-<circle cx="226" cy="14" r="2.4" fill="#4E83FC" opacity=".65"/>
+<text x="84" y="55" fill="#326CE5" font-family="Consolas,monospace" font-size="9.8" letter-spacing=".25">ORCHESTRATION</text>
+<path d="M15 77H227" stroke="#326CE5" opacity=".37" stroke-width=".85"/>
+<circle cx="226" cy="14" r="2.4" fill="#326CE5" opacity=".65"/>
 </g>
 <g transform="translate(812 55)" font-family="Arial,Helvetica,sans-serif">
 <rect width="244" height="88" rx="12" fill="#111731" stroke="#343B60" stroke-width="1.15"/>
-<path d="M13 12H69" stroke="#389CFF" stroke-width="2.3" stroke-linecap="round"/>
-<rect x="13" y="19" width="60" height="53" rx="9" fill="#389CFF" fill-opacity=".06" stroke="#389CFF" stroke-width=".7" stroke-opacity=".3"/>
-<g transform="translate(-3 -2) scale(.67)"><g stroke="#389CFF" stroke-width="2.1" fill="none" stroke-linecap="round"><circle cx="35" cy="24" r="5"/><circle cx="67" cy="45" r="5"/><circle cx="35" cy="69" r="5"/><path d="M35 29v32M40 25h8q16 0 19 15M40 69h8q16 0 19-19"/><path d="M44 45l9-6v12Z" fill="#389CFF" stroke="none"/></g></g>
+<path d="M13 12H69" stroke="#2088FF" stroke-width="2.3" stroke-linecap="round"/>
+<rect x="13" y="19" width="60" height="53" rx="9" fill="#2088FF" fill-opacity=".06" stroke="#2088FF" stroke-width=".7" stroke-opacity=".3"/>
+<g transform="translate(-3 -2) scale(.67)"><g stroke="#2088FF" stroke-width="2.1" fill="none" stroke-linecap="round"><circle cx="35" cy="24" r="5"/><circle cx="67" cy="45" r="5"/><circle cx="35" cy="69" r="5"/><path d="M35 29v32M40 25h8q16 0 19 15M40 69h8q16 0 19-19"/><path d="M44 45l9-6v12Z" fill="#2088FF" stroke="none"/></g></g>
 <text x="84" y="35" fill="#F1F3FF" font-size="14" font-weight="900">GITHUB ACTIONS</text>
-<text x="84" y="55" fill="#389CFF" font-family="Consolas,monospace" font-size="8.7" letter-spacing=".25">CONTINUOUS DELIVERY</text>
-<path d="M15 77H227" stroke="#389CFF" opacity=".37" stroke-width=".85"/>
-<circle cx="226" cy="14" r="3" fill="#389CFF"><animate attributeName="opacity" values=".3;1;.3" dur="3.6s" repeatCount="indefinite"/></circle>
+<text x="84" y="55" fill="#2088FF" font-family="Consolas,monospace" font-size="8.7" letter-spacing=".25">CONTINUOUS DELIVERY</text>
+<path d="M15 77H227" stroke="#2088FF" opacity=".37" stroke-width=".85"/>
+<circle cx="226" cy="14" r="3" fill="#2088FF"><animate attributeName="opacity" values=".3;1;.3" dur="3.6s" repeatCount="indefinite"/></circle>
 </g>
 <g transform="translate(20 155)" font-family="Arial,Helvetica,sans-serif">
 <rect width="244" height="88" rx="12" fill="#111731" stroke="#343B60" stroke-width="1.15"/>
@@ -124,13 +124,13 @@
 </g>
 <g transform="translate(812 255)" font-family="Arial,Helvetica,sans-serif">
 <rect width="244" height="88" rx="12" fill="#111731" stroke="#343B60" stroke-width="1.15"/>
-<path d="M13 12H69" stroke="#6192D6" stroke-width="2.3" stroke-linecap="round"/>
-<rect x="13" y="19" width="60" height="53" rx="9" fill="#6192D6" fill-opacity=".06" stroke="#6192D6" stroke-width=".7" stroke-opacity=".3"/>
-<g transform="translate(-3 -2) scale(.67)"><g stroke="#6192D6" stroke-width="2.3" fill="#6192D6" fill-opacity=".1"><ellipse cx="52" cy="29" rx="25" ry="9"/><path d="M27 29v34q0 9 25 9t25-9V29" fill="none"/><path d="M27 41q0 9 25 9t25-9M27 53q0 9 25 9t25-9" fill="none" stroke-width="1.4"/></g></g>
+<path d="M13 12H69" stroke="#336791" stroke-width="2.3" stroke-linecap="round"/>
+<rect x="13" y="19" width="60" height="53" rx="9" fill="#336791" fill-opacity=".06" stroke="#336791" stroke-width=".7" stroke-opacity=".3"/>
+<g transform="translate(-3 -2) scale(.67)"><g stroke="#336791" stroke-width="2.3" fill="#336791" fill-opacity=".1"><ellipse cx="52" cy="29" rx="25" ry="9"/><path d="M27 29v34q0 9 25 9t25-9V29" fill="none"/><path d="M27 41q0 9 25 9t25-9M27 53q0 9 25 9t25-9" fill="none" stroke-width="1.4"/></g></g>
 <text x="84" y="35" fill="#F1F3FF" font-size="17.5" font-weight="900">POSTGRESQL</text>
-<text x="84" y="55" fill="#6192D6" font-family="Consolas,monospace" font-size="9.8" letter-spacing=".25">DATA</text>
-<path d="M15 77H227" stroke="#6192D6" opacity=".37" stroke-width=".85"/>
-<circle cx="226" cy="14" r="2.4" fill="#6192D6" opacity=".65"/>
+<text x="84" y="55" fill="#336791" font-family="Consolas,monospace" font-size="9.8" letter-spacing=".25">DATA</text>
+<path d="M15 77H227" stroke="#336791" opacity=".37" stroke-width=".85"/>
+<circle cx="226" cy="14" r="2.4" fill="#336791" opacity=".65"/>
 </g>
 <text x="23" y="359" font-family="Consolas,monospace" font-size="9.5" fill="#8291B9" letter-spacing="1.1">SYSTEMS / TOOLS / SIGNALS</text>
 <text x="1048" y="359" font-family="Consolas,monospace" font-size="9.5" fill="#B6FF87" text-anchor="end" letter-spacing="1.1">READY FOR THE NEXT BUILD</text>
