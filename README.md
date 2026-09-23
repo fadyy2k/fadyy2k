@@ -61,9 +61,9 @@
 
 <table>
   <tr>
-    <td width="33%"><a href="https://github.com/fadyy2k/depi-mind-app-v2"><img src="./assets/fady-card-mind.svg" width="100%" alt="MIND DevSecOps source repository" /></a></td>
-    <td width="33%"><a href="https://github.com/fadyy2k/depi-helloapp-infra-v2"><img src="./assets/fady-card-infra.svg" width="100%" alt="Terraform EKS infrastructure source repository" /></a></td>
-    <td width="34%"><a href="https://github.com/fadyy2k/notesapp-multi-ec2-ansible"><img src="./assets/fady-card-ops.svg" width="100%" alt="Multi-EC2 Ansible source repository" /></a></td>
+    <td width="33%"><a href="https://github.com/fadyy2k/depi-mind-app-v2"><img src="./assets/fady-card-mind.svg?v=5" width="100%" alt="MIND DevSecOps source repository" /></a></td>
+    <td width="33%"><a href="https://github.com/fadyy2k/depi-helloapp-infra-v2"><img src="./assets/fady-card-infra.svg?v=5" width="100%" alt="Terraform EKS infrastructure source repository" /></a></td>
+    <td width="34%"><a href="https://github.com/fadyy2k/notesapp-multi-ec2-ansible"><img src="./assets/fady-card-ops.svg?v=5" width="100%" alt="Multi-EC2 Ansible source repository" /></a></td>
   </tr>
 </table>
 
