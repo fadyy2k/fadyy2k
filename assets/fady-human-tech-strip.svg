@@ -1,87 +1,105 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="340" viewBox="0 0 1080 340" role="img" aria-labelledby="title desc">
-<title id="title">Fady, the human behind the systems</title>
-<desc id="desc">Airy pastel neon introduction with four colorful illustrated technical specialties: Cloud and Infrastructure, Security by Design, GitOps and Automation, and Recovery Mindset.</desc>
+<title id="title">The Engine Room — Fady's platform engineering mission</title>
+<desc id="desc">A dark, futuristic neon mission-control panel with four engineering pillars: Platform, Automation, Observability and Resilience.</desc>
 <defs>
-  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#fbf8ff"/>
-    <stop offset=".52" stop-color="#f0f9ff"/>
-    <stop offset="1" stop-color="#f1ffe9"/>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0c1231"/>
+    <stop offset=".57" stop-color="#0c1029"/>
+    <stop offset="1" stop-color="#17112f"/>
   </linearGradient>
   <linearGradient id="headline" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#8546f9"/>
-    <stop offset=".52" stop-color="#4666f0"/>
-    <stop offset="1" stop-color="#0bb9d8"/>
+    <stop offset="0" stop-color="#f5f3ff"/>
+    <stop offset=".58" stop-color="#e5ddff"/>
+    <stop offset="1" stop-color="#8fe5ff"/>
   </linearGradient>
-  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#b994ff"/>
-    <stop offset=".5" stop-color="#5ecff9"/>
-    <stop offset="1" stop-color="#aeed77"/>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ae7bfa"/>
+    <stop offset=".54" stop-color="#42d4f7"/>
+    <stop offset="1" stop-color="#b7ff83"/>
   </linearGradient>
-  <radialGradient id="soft"><stop stop-color="#a88cff" stop-opacity=".15"/><stop offset="1" stop-color="#a88cff" stop-opacity="0"/></radialGradient>
-  <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
-    <circle cx="1" cy="1" r=".85" fill="#8f97bf" opacity=".25"/>
+  <radialGradient id="glow"><stop stop-color="#8950ee" stop-opacity=".26"/><stop offset="1" stop-color="#8950ee" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse">
+    <path d="M25 0H0V25" fill="none" stroke="#8998cf" stroke-width=".6" opacity=".18"/>
   </pattern>
+  <filter id="dotglow"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect x="1" y="1" width="1078" height="338" rx="19" fill="url(#surface)" stroke="#c9c0ec" stroke-width="1.6"/>
-<rect x="13" y="13" width="1054" height="314" rx="15" fill="none" stroke="#ffffff" stroke-width="1.6" opacity=".9"/>
-<circle cx="411" cy="8" r="230" fill="url(#soft)"/>
-<rect x="18" y="18" width="1044" height="304" fill="url(#dots)" opacity=".37"/>
-<path d="M30 26h165M30 26v24M1050 314H887M1050 314v-24" stroke="url(#edge)" stroke-width="3" fill="none" stroke-linecap="round"/>
-<g font-family="Arial,Helvetica,sans-serif">
-  <rect x="41" y="37" width="185" height="26" rx="13" fill="#eee5ff" stroke="#d7c5ff"/>
-  <circle cx="55" cy="50" r="4" fill="#8f49ef"><animate attributeName="opacity" values="1;.45;1" dur="3s" repeatCount="indefinite"/></circle>
-  <text x="69" y="54" fill="#6f3999" font-family="Consolas,monospace" font-size="10.5" letter-spacing="1">THE HUMAN SIDE / 01</text>
-  <text x="39" y="124" fill="#16223f" font-size="50" font-weight="900" letter-spacing="-2">HUMAN FIRST.</text>
-  <text x="39" y="181" fill="url(#headline)" font-size="50" font-weight="900" letter-spacing="-2">TECH ALWAYS.</text>
-  <path d="M41 195H391" stroke="url(#edge)" stroke-width="4" stroke-linecap="round"/>
-  <text x="41" y="225" fill="#243450" font-size="16.5" font-weight="700">Hey, I'm Fady. I make complex things</text>
-  <text x="41" y="246" fill="#243450" font-size="16.5" font-weight="700">feel simple, safe and recoverable.</text>
-  <text x="41" y="297" fill="#65728d" font-family="Consolas,monospace" font-size="10.5" letter-spacing=".6">CURIOUS BY DEFAULT  /  ENGINEER BY PRACTICE</text>
+<rect x="1" y="1" width="1078" height="338" rx="19" fill="url(#background)" stroke="#5f529c" stroke-width="1.5"/>
+<rect x="15" y="14" width="1050" height="312" rx="14" fill="url(#grid)" opacity=".5"/>
+<circle cx="947" cy="53" r="200" fill="url(#glow)"/>
+<path d="M25 51H1055M25 307H1055" fill="none" stroke="#34345f" stroke-width="1"/>
+<path d="M25 51H280M800 307H1055" fill="none" stroke="url(#neon)" stroke-width="2" stroke-linecap="round"/>
+<g font-family="Consolas,Menlo,monospace">
+  <circle cx="38" cy="29" r="3.5" fill="#b9ff8d" filter="url(#dotglow)">
+    <animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="52" y="33" font-size="10" letter-spacing="1.6" fill="#baff91">SYSTEM CORE / ONLINE</text>
+  <text x="800" y="33" font-size="10" letter-spacing="1.5" fill="#ab91f1">MISSION CONTROL / 02</text>
+  <text x="36" y="323" font-size="9.5" letter-spacing="1.4" fill="#7785b3">FROM THE ENGINE ROOM, NOT THE SIDELINES</text>
+  <text x="887" y="323" font-size="9.5" letter-spacing="1.1" fill="#b6fb92">KEEP BUILDING &gt;</text>
 </g>
 
-<!-- Four light, energetic technical cards: plenty of white space, no black bar -->
+<!-- A personal, memorable headline that completes the hero's mission-control theme. -->
 <g font-family="Arial,Helvetica,sans-serif">
-  <!-- Cloud -->
-  <g transform="translate(559 37)">
-    <rect x="1" y="1" width="226" height="121" rx="15" fill="#f2eaff" stroke="#d5bcff" stroke-width="1.4"/>
-    <path d="M14 19h55" stroke="#a77cfb" stroke-width="2" stroke-linecap="round"/>
-    <path d="M27 66c-8 0-13-6-12-13 1-6 6-10 13-10 4-12 15-16 25-9 8-2 17 3 18 12 8 0 13 5 13 11s-6 10-13 10Z" fill="none" stroke="#9964e8" stroke-width="2.6" stroke-linejoin="round"/>
-    <path d="M49 54v22m-8-8 8 8 8-8" fill="none" stroke="#9964e8" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="95" y="51" font-size="16.5" font-weight="800" fill="#5a338c">CLOUD</text>
-    <text x="95" y="70" font-size="11.5" fill="#755a9d">&amp; INFRA</text>
-    <text x="18" y="100" font-family="Consolas,monospace" font-size="10" fill="#9c84b7" letter-spacing=".6">BUILD FOR CHANGE</text>
-  </g>
-  <!-- Security -->
-  <g transform="translate(803 37)">
-    <rect x="1" y="1" width="226" height="121" rx="15" fill="#eafaff" stroke="#a4e8f4" stroke-width="1.4"/>
-    <path d="M14 19h55" stroke="#5cc8e5" stroke-width="2" stroke-linecap="round"/>
-    <path d="M46 28 70 38v19c0 17-12 26-24 31-12-5-24-14-24-31V38Z" fill="none" stroke="#18abce" stroke-width="2.7" stroke-linejoin="round"/>
-    <path d="m34 56 9 9 17-19" fill="none" stroke="#18abce" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="95" y="51" font-size="16.5" font-weight="800" fill="#145d84">SECURITY</text>
-    <text x="95" y="70" font-size="11.5" fill="#458ba3">BY DESIGN</text>
-    <text x="18" y="100" font-family="Consolas,monospace" font-size="10" fill="#69a1b1" letter-spacing=".6">TRUST IS ENGINEERED</text>
-  </g>
-  <!-- GitOps -->
-  <g transform="translate(559 172)">
-    <rect x="1" y="1" width="226" height="121" rx="15" fill="#f1f2ff" stroke="#b6b8ff" stroke-width="1.4"/>
-    <path d="M14 19h55" stroke="#7d7ce9" stroke-width="2" stroke-linecap="round"/>
-    <g fill="#f1f2ff" stroke="#7776d9" stroke-width="2.5">
-      <circle cx="31" cy="35" r="6"/><circle cx="31" cy="77" r="6"/><circle cx="71" cy="57" r="6"/>
-      <path d="M31 41v30M37 35h18q16 0 16 16" fill="none"/>
+  <text x="35" y="118" font-size="55" font-weight="900" letter-spacing="-2" fill="url(#headline)">THE ENGINE</text>
+  <text x="35" y="180" font-size="65" font-weight="900" letter-spacing="-2.2" fill="url(#headline)">ROOM<tspan fill="#b8ff89">.</tspan></text>
+  <path d="M38 195H427" stroke="url(#neon)" stroke-width="3.5" stroke-linecap="round"/>
+  <text x="38" y="225" fill="#e1e4f4" font-size="16" font-weight="700">Where I build the systems</text>
+  <text x="38" y="249" fill="#e1e4f4" font-size="16" font-weight="700">that keep everything running.</text>
+  <text x="38" y="286" fill="#8997be" font-family="Consolas,Menlo,monospace" font-size="10.7" letter-spacing=".6">PLATFORM TO PRODUCTION / 24x7 MINDSET</text>
+</g>
+
+<!-- A matching pair of two-by-two dark neon panels. -->
+<g font-family="Arial,Helvetica,sans-serif">
+  <!-- PLATFORM: a connected infrastructure graph -->
+  <g transform="translate(563 65)">
+    <rect width="224" height="104" rx="12" fill="#161332" stroke="#9576e8" stroke-width="1.5"/>
+    <path d="M12 15H62" stroke="#a685ff" stroke-width="2" stroke-linecap="round"/>
+    <g fill="#1d1940" stroke="#b398ff" stroke-width="1.8">
+      <rect x="24" y="35" width="16" height="16" rx="3"/>
+      <rect x="48" y="60" width="16" height="16" rx="3"/>
+      <rect x="12" y="65" width="16" height="16" rx="3"/>
+      <path d="M32 51v10l24 0M32 62H20v3" fill="none"/>
     </g>
-    <text x="95" y="51" font-size="16.5" font-weight="800" fill="#464a9d">GITOPS</text>
-    <text x="95" y="70" font-size="11.5" fill="#7177bb">&amp; AUTOMATION</text>
-    <text x="18" y="100" font-family="Consolas,monospace" font-size="10" fill="#8b8fbd" letter-spacing=".6">SHIP WITH CONFIDENCE</text>
+    <text x="90" y="47" fill="#eeeaff" font-size="16.7" font-weight="900" letter-spacing=".35">PLATFORM</text>
+    <text x="90" y="65" fill="#a89bda" font-family="Consolas,monospace" font-size="10.2">DESIGN + SCALE</text>
+    <text x="16" y="91" fill="#8e80c1" font-family="Consolas,monospace" font-size="9.2" letter-spacing=".4">FOUNDATIONS THAT LAST</text>
   </g>
-  <!-- Recovery -->
-  <g transform="translate(803 172)">
-    <rect x="1" y="1" width="226" height="121" rx="15" fill="#f2ffeb" stroke="#b8eba7" stroke-width="1.4"/>
-    <path d="M14 19h55" stroke="#93cf72" stroke-width="2" stroke-linecap="round"/>
-    <path d="M67 44a24 24 0 1 0 2 20M69 33v20H49" fill="none" stroke="#549f43" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="m35 56 11 10 21-20" fill="none" stroke="#68b14e" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="95" y="51" font-size="16.5" font-weight="800" fill="#3c793a">RECOVERY</text>
-    <text x="95" y="70" font-size="11.5" fill="#66965c">MINDSET</text>
-    <text x="18" y="100" font-family="Consolas,monospace" font-size="10" fill="#80a977" letter-spacing=".6">CALM WHEN IT COUNTS</text>
+  <!-- AUTOMATION: code brackets with orbital arrow -->
+  <g transform="translate(808 65)">
+    <rect width="224" height="104" rx="12" fill="#102c3b" stroke="#46c7ee" stroke-width="1.5"/>
+    <path d="M12 15H62" stroke="#54d7f4" stroke-width="2" stroke-linecap="round"/>
+    <g fill="none" stroke="#5ae1ff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M33 43L21 54l12 11M52 43l12 11-12 11M48 38L38 71"/>
+      <path d="M66 30c8 5 13 13 13 23M79 53l-6-7M79 53l6-6" stroke-width="1.8"/>
+    </g>
+    <text x="87" y="47" fill="#ddfaff" font-size="16.3" font-weight="900" letter-spacing=".1">AUTOMATION</text>
+    <text x="87" y="65" fill="#86ccdf" font-family="Consolas,monospace" font-size="10.2">REPEAT, RELIABLY</text>
+    <text x="16" y="91" fill="#70b2c8" font-family="Consolas,monospace" font-size="9.2" letter-spacing=".4">LESS TOIL / MORE FLOW</text>
+  </g>
+  <!-- OBSERVABILITY: live waveform and lens -->
+  <g transform="translate(563 182)">
+    <rect width="224" height="104" rx="12" fill="#141b42" stroke="#7d93f7" stroke-width="1.5"/>
+    <path d="M12 15H62" stroke="#92a0fb" stroke-width="2" stroke-linecap="round"/>
+    <g stroke="#8fa9ff" stroke-width="2.6" fill="none" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M12 58h11l7-14 10 27 9-18 7 5h11"/>
+      <circle cx="56" cy="36" r="9" stroke-width="1.5" stroke-dasharray="3 3"/>
+      <path d="M62 42l7 8" stroke-width="1.5"/>
+    </g>
+    <text x="86" y="47" fill="#e8edff" font-size="13.8" font-weight="900" letter-spacing="-.15">OBSERVABILITY</text>
+    <text x="86" y="65" fill="#a5b5ea" font-family="Consolas,monospace" font-size="10.2">SIGNALS, NOT NOISE</text>
+    <text x="16" y="91" fill="#899ace" font-family="Consolas,monospace" font-size="9.2" letter-spacing=".4">KNOW BEFORE YOU GUESS</text>
+  </g>
+  <!-- RESILIENCE: recovery ring and check -->
+  <g transform="translate(808 182)">
+    <rect width="224" height="104" rx="12" fill="#152c2b" stroke="#a6e17d" stroke-width="1.5"/>
+    <path d="M12 15H62" stroke="#b1f388" stroke-width="2" stroke-linecap="round"/>
+    <g fill="none" stroke="#b6fb8e" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M67 49a24 24 0 1 0 2 20M69 35v17H52"/>
+      <path d="M30 54l11 10 21-22" stroke-width="2.1"/>
+    </g>
+    <text x="87" y="47" fill="#ecffdf" font-size="16.3" font-weight="900">RESILIENCE</text>
+    <text x="87" y="65" fill="#b6daa2" font-family="Consolas,monospace" font-size="10.2">READY TO RECOVER</text>
+    <text x="16" y="91" fill="#98c088" font-family="Consolas,monospace" font-size="9.2" letter-spacing=".4">FAIL / LEARN / IMPROVE</text>
   </g>
 </g>
 </svg>
