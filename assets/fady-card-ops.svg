@@ -2,12 +2,12 @@
 <title id="title">ANSIBLE</title><desc id="desc">OPERATIONS. Repeatability over heroics.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1c3436"/><stop offset="1" stop-color="#18232e"/></linearGradient></defs>
 <rect x="1" y="1" width="346" height="178" rx="15" fill="url(#bg)" stroke="#b1f27f" stroke-opacity=".65" stroke-width="1.5"/>
-<path d="M16 31H330" stroke="#b1f27f" opacity=".4"/>
+<path d="M16 31H330" stroke="#b1f27f" opacity=".4"/><circle cx="18" cy="31" r="2.4" fill="#b1f27f"><animate attributeName="cx" values="18;328;18" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;1;.15" dur="8s" repeatCount="indefinite"/></circle>
 <text x="17" y="22" fill="#b1f27f" font-family="Consolas,monospace" font-size="10.5" letter-spacing="1.1">04 / SIDE QUEST</text>
 <text x="17" y="68" fill="#f4f2ff" font-family="Arial,sans-serif" font-size="27" font-weight="800">ANSIBLE</text>
 <text x="18" y="93" fill="#b1f27f" font-family="Consolas,monospace" font-size="12">OPERATIONS</text>
 <text x="18" y="126" fill="#b9c4df" font-family="Arial,sans-serif" font-size="12.5">Repeatability over heroics.</text>
-<path d="M266 40h61v56h-61zM266 57h61M266 76h61" fill="none" stroke="#b1f27f" stroke-width="2"/><g fill="#b1f27f"><circle cx="273" cy="49" r="2"/><circle cx="273" cy="67" r="2"/><circle cx="273" cy="86" r="2"/></g><path d="M280 116l13 9 24-28" fill="none" stroke="#b1f27f" stroke-width="3"/>
-<path d="M17 150H330" stroke="#b1f27f" opacity=".32"/>
+<path d="M266 40h61v56h-61zM266 57h61M266 76h61" fill="none" stroke="#b1f27f" stroke-width="2"/><g fill="#b1f27f"><circle cx="273" cy="49" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.7s" repeatCount="indefinite"/></circle><circle cx="273" cy="67" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.7s" begin=".9s" repeatCount="indefinite"/></circle><circle cx="273" cy="86" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.7s" begin="1.8s" repeatCount="indefinite"/></circle></g><path d="M280 116l13 9 24-28" fill="none" stroke="#b1f27f" stroke-width="3"/>
+<path d="M17 150H330" stroke="#b1f27f" opacity=".32"/><path d="M17 150H330" stroke="#b1f27f" stroke-width="2" stroke-linecap="round" stroke-dasharray="34 279" opacity=".78"><animate attributeName="stroke-dashoffset" from="313" to="-313" dur="6.5s" repeatCount="indefinite"/></path>
 <text x="18" y="166" font-family="Consolas,monospace" font-size="10" fill="#8f9eba">VIEW SOURCE &gt;</text>
 </svg>
