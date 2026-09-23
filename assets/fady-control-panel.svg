@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="228" viewBox="0 0 1080 228" role="img" aria-labelledby="title desc">
+<title id="title">Fady's engineering control panel</title><desc id="desc">Three neon visual cards: build with intent, secure by design, recover by default.</desc>
+<defs>
+<linearGradient id="bg"><stop stop-color="#0a122c"/><stop offset="1" stop-color="#120c29"/></linearGradient>
+<linearGradient id="a"><stop stop-color="#a86cff"/><stop offset="1" stop-color="#4bceff"/></linearGradient>
+</defs>
+<rect width="1080" height="228" rx="18" fill="url(#bg)" stroke="#454067"/>
+<text x="25" y="31" fill="#bcb2d7" font-family="Consolas,monospace" font-size="12" letter-spacing="2">HOW MY BRAIN WORKS <tspan fill="#adff86"> / OPERATING SYSTEM</tspan></text>
+<g font-family="Arial,Helvetica,sans-serif">
+  <g transform="translate(18 47)">
+   <rect width="333" height="160" rx="15" fill="#151338" stroke="#805fe0" stroke-width="1.2"/>
+   <path d="M17 21H316" stroke="#513f83" opacity=".8"/>
+   <g stroke="#ad85ff" stroke-width="2" fill="none" stroke-linejoin="round">
+    <rect x="22" y="39" width="37" height="31" rx="5"/><path d="M40 70V82m-14 0h28M30 50h20m-16 8h12"/>
+   </g>
+   <text x="76" y="48" fill="#aa91ff" font-size="10" font-family="Consolas,monospace" letter-spacing="1.4">MODE_01</text>
+   <text x="76" y="73" fill="#fff" font-size="24" font-weight="bold">BUILD</text>
+   <text x="22" y="109" fill="#bdc6e8" font-size="13">Infrastructure that scales</text><text x="22" y="129" fill="#8391b9" font-size="12">and can be changed safely.</text>
+   <path d="M22 146H311" stroke="#6d55ab" stroke-dasharray="12 9"/>
+  </g>
+  <g transform="translate(373 47)">
+   <rect width="333" height="160" rx="15" fill="#0c2431" stroke="#2ac9df" stroke-width="1.2"/>
+   <path d="M17 21H316" stroke="#277b8f" opacity=".6"/>
+   <g stroke="#58e1f4" stroke-width="2" fill="none" stroke-linejoin="round">
+    <path d="M40 34L58 41V55Q55 69 40 76Q25 69 22 55V41Z"/><path d="m32 54 6 6 12-14"/>
+   </g>
+   <text x="76" y="48" fill="#73e0ef" font-size="10" font-family="Consolas,monospace" letter-spacing="1.4">MODE_02</text>
+   <text x="76" y="73" fill="#fff" font-size="24" font-weight="bold">SECURE</text>
+   <text x="22" y="109" fill="#c7e9ed" font-size="13">Identity, policy and evidence</text><text x="22" y="129" fill="#83b8c7" font-size="12">before the incident.</text>
+   <path d="M22 146H311" stroke="#369db2" stroke-dasharray="12 9"/>
+  </g>
+  <g transform="translate(727 47)">
+   <rect width="335" height="160" rx="15" fill="#1a2430" stroke="#a4e76c" stroke-width="1.2"/>
+   <path d="M17 21H317" stroke="#648a66" opacity=".6"/>
+   <g stroke="#b2ff8b" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M54 52a17 17 0 1 1-7-14"/><path d="M49 29v12H37"/>
+    <path d="M33 52l8 7 12-13" opacity=".7"/>
+   </g>
+   <text x="76" y="48" fill="#baff92" font-size="10" font-family="Consolas,monospace" letter-spacing="1.4">MODE_03</text>
+   <text x="76" y="73" fill="#fff" font-size="24" font-weight="bold">RECOVER</text>
+   <text x="22" y="109" fill="#e2f5d8" font-size="13">SLOs, rollback and calm</text><text x="22" y="129" fill="#a0c5a1" font-size="12">when everything gets noisy.</text>
+   <path d="M22 146H313" stroke="#7ca66d" stroke-dasharray="12 9"/>
+  </g>
+</g>
+</svg>
