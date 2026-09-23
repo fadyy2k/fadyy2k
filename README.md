@@ -11,10 +11,14 @@
 
 *My kind of fun? Turning "it works on my machine" into "we can deploy it, secure it and recover it."* ☕
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE-Portfolio-b66bff?style=for-the-badge&logo=githubpages&logoColor=white)](https://fadyy2k.github.io/portfolio/)
-[![Case Studies](https://img.shields.io/badge/READ-Real_World_Cases-34d6f6?style=for-the-badge&logo=readthedocs&logoColor=0b1024)](https://github.com/fadyy2k/engineering-case-studies)
-[![LinkedIn](https://img.shields.io/badge/SAY_HI-LinkedIn-b4fb80?style=for-the-badge&logo=linkedin&logoColor=0b1024)](https://www.linkedin.com/in/fady-mounir-601331b6/)
-[![Credly](https://img.shields.io/badge/CHECK-Credentials-ffc27b?style=for-the-badge&logo=credly&logoColor=0b1024)](https://www.credly.com/users/fady-mounir-zaghloul)
+<table>
+  <tr>
+    <td width="25%"><a href="https://fadyy2k.github.io/portfolio/"><img src="./assets/fady-link-portfolio.svg" width="100%" alt="Portfolio — discover the work" /></a></td>
+    <td width="25%"><a href="https://github.com/fadyy2k/engineering-case-studies"><img src="./assets/fady-link-cases.svg" width="100%" alt="Engineering case studies — real world projects" /></a></td>
+    <td width="25%"><a href="https://www.linkedin.com/in/fady-mounir-601331b6/"><img src="./assets/fady-link-linkedin.svg" width="100%" alt="LinkedIn — connect with Fady" /></a></td>
+    <td width="25%"><a href="https://www.credly.com/users/fady-mounir-zaghloul"><img src="./assets/fady-link-credly.svg" width="100%" alt="Credly — verified credentials" /></a></td>
+  </tr>
+</table>
 
 <br>
 
@@ -32,9 +36,7 @@
 
 <div align="center">
 
-### ⚡ HOW MY BRAIN WORKS
-
-<img src="./assets/fady-control-panel.svg" width="100%" alt="Visual control panel for Build, Secure and Recover" />
+<img src="./assets/fady-control-panel.svg" width="100%" alt="Animated How My Brain Works mission-control panel: Build, Secure and Recover" />
 
 </div>
 
@@ -66,39 +68,28 @@
 
 ---
 
-### `03 // THE WORK BEHIND THE WORK` &nbsp; 🎯
-
 <div align="center">
 
-![7 engineering phases](https://img.shields.io/badge/07-PLATFORM_PHASES-b66bff?style=for-the-badge)
-![6 case studies](https://img.shields.io/badge/06-SANITIZED_CASES-34d6f6?style=for-the-badge&labelColor=152537)
-![2 upstream PRs](https://img.shields.io/badge/02-UPSTREAM_PRs_SUBMITTED-b4fb80?style=for-the-badge&labelColor=20362b)
+<img src="./assets/fady-proof-of-work.svg" width="100%" alt="Animated proof-of-work dashboard: seven platform phases, six sanitized engineering cases and two submitted upstream pull requests" />
+
+<details>
+<summary><b>↳ Explore case studies and submitted upstream work</b></summary>
+
+**[All six engineering case studies](https://github.com/fadyy2k/engineering-case-studies)** &nbsp; · &nbsp; **[Engineering delivery board](https://github.com/users/fadyy2k/projects/1)**
+
+**[OpenCost Helm PR #386](https://github.com/opencost/opencost-helm-chart/pull/386)** &nbsp; · &nbsp; **[Kyverno docs PR #2175](https://github.com/kyverno/website/pull/2175)**
+
+<sub>Upstream PRs are submitted; check GitHub for their current review status.</sub>
+
+</details>
 
 </div>
 
-**From real operations** &nbsp; → &nbsp; [SaaS architecture](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/01-multi-tenant-saas-platform.md) · [PostgreSQL replication](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/02-cross-site-postgresql-replication.md) · [Rollback-first migration](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/03-cloud-migration-with-rollback.md) · [Observability](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/04-observability-baseline.md) · [Identity hardening](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/05-identity-security-hardening.md) · [Local-first AI](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/06-local-first-ai-platform.md)
-
-**Working in the open** &nbsp; → &nbsp; [OpenCost Helm PR #386](https://github.com/opencost/opencost-helm-chart/pull/386) · [Kyverno docs PR #2175](https://github.com/kyverno/website/pull/2175) <sub>(submitted; see GitHub for current review status)</sub>
-
 ---
-
-### `04 // INVENTORY` &nbsp; 🔧
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-232f3e?style=flat-square&logo=amazonwebservices&logoColor=ff9900)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-844fba?style=flat-square&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ops-111827?style=flat-square&logo=linux&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-GitOps-fc6d27?style=flat-square&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI-2386e3?style=flat-square&logo=githubactions&logoColor=white)
-
-![Prometheus](https://img.shields.io/badge/Prometheus-Observe-e6522c?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-Operate-f46800?style=flat-square&logo=grafana&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ed?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Automation-3776ab?style=flat-square&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-Repeatability-ee0000?style=flat-square&logo=ansible&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="./assets/fady-tool-rack.svg" width="100%" alt="Brand-colored dark mission-control inventory of AWS, Terraform, Kubernetes, GitHub Actions, Linux, Argo CD, Prometheus, Grafana, Docker, Python, Ansible and PostgreSQL" />
 
 </div>
 
