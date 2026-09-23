@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="328" viewBox="0 0 1080 328" role="img" aria-labelledby="title desc">
+<title id="title">Fady Zaghloul — engineering meets mission control</title>
+<desc id="desc">Futuristic dark navy, violet, cyan and electric lime title banner with animated network orbit, terminal labels and personal signature.</desc>
+<defs>
+  <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#0d1233"/><stop offset=".56" stop-color="#090d22"/><stop offset="1" stop-color="#11102b"/></linearGradient>
+  <linearGradient id="type" x2="1" y2="0"><stop stop-color="#fff"/><stop offset=".45" stop-color="#ded7ff"/><stop offset="1" stop-color="#7ee8ff"/></linearGradient>
+  <linearGradient id="neon" x2="1" y2="0"><stop stop-color="#ad6bff"/><stop offset=".5" stop-color="#32d7fb"/><stop offset="1" stop-color="#bbff72"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#8a4dff" stop-opacity=".35"/><stop offset="1" stop-color="#8a4dff" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8097ff" stroke-width=".55" opacity=".13"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1080" height="328" rx="20" fill="url(#panel)"/>
+<rect width="1080" height="328" rx="20" fill="url(#grid)"/>
+<circle cx="836" cy="158" r="225" fill="url(#aura)"/>
+<path d="M23 57H1056 M23 279H1056" stroke="#323b66" stroke-width="1"/>
+<path d="M24 57H280 M800 279H1056" stroke="url(#neon)" stroke-width="2" opacity=".9"/>
+<g fill="none" stroke-linecap="round">
+ <path d="M728 161H945 M835 54V268" stroke="#6b58cd" stroke-width="1" opacity=".28" stroke-dasharray="4 9"/>
+ <circle cx="834" cy="160" r="106" stroke="#5966a8" opacity=".5" stroke-width="1" stroke-dasharray="5 9"/>
+ <circle cx="834" cy="160" r="77" stroke="url(#neon)" opacity=".8" stroke-width="2" stroke-dasharray="140 18 48 26">
+   <animateTransform attributeName="transform" type="rotate" from="0 834 160" to="360 834 160" dur="20s" repeatCount="indefinite"/>
+ </circle>
+ <path d="M834 54l33 30m73 77-28 41m-78 64-37-30m-68-76 30-43" stroke="#a78bfa" stroke-width="1" opacity=".8"/>
+ <path d="M752 89L813 135 M923 102L859 141 M744 232L813 184 M922 227L857 184" stroke="#31cdf2" opacity=".45"/>
+</g>
+<g fill="#0a1232" stroke="#a38afb" stroke-width="2">
+ <rect x="796" y="121" width="76" height="76" rx="19" fill="#100f31"/>
+ <circle cx="752" cy="89" r="5" fill="#b2ff73" stroke="none" filter="url(#glow)"><animate attributeName="opacity" values="1;.4;1" dur="2.4s" repeatCount="indefinite"/></circle>
+ <circle cx="923" cy="102" r="5" fill="#49d9fc" stroke="none" filter="url(#glow)"><animate attributeName="opacity" values=".5;1;.5" dur="2.8s" repeatCount="indefinite"/></circle>
+ <circle cx="744" cy="232" r="5" fill="#a981ff" stroke="none" filter="url(#glow)"/>
+ <circle cx="922" cy="227" r="5" fill="#b2ff73" stroke="none" filter="url(#glow)"/>
+</g>
+<text x="834" y="169" font-family="Arial, sans-serif" font-size="26" font-weight="900" text-anchor="middle" fill="#e8e9ff">FZ</text>
+<g font-family="Consolas, monospace" font-size="10" letter-spacing="2">
+  <text x="36" y="35" fill="#bbff72">● SYSTEM ONLINE</text>
+  <text x="420" y="35" fill="#626b9c">PORTFOLIO / HUMAN + TECH</text>
+  <text x="792" y="36" fill="#a990ff">MISSION CONTROL / 01</text>
+  <text x="749" y="79" fill="#b2ff73">BUILD</text>
+  <text x="924" y="90" fill="#55dfff">SECURE</text>
+  <text x="690" y="246" fill="#a990ff">OPERATE</text>
+  <text x="925" y="244" fill="#b2ff73">REPEAT</text>
+  <text x="38" y="303" fill="#7e86b9">BASED IN CAIRO</text>
+  <text x="284" y="303" fill="#7e86b9">INFRASTRUCTURE / SECURITY / DEVSECOPS</text>
+  <text x="1009" y="303" fill="#b2ff73">2026</text>
+</g>
+<text x="36" y="125" font-family="Arial,Helvetica,sans-serif" font-size="67" font-weight="900" letter-spacing="-3" fill="url(#type)">FADY</text>
+<text x="36" y="194" font-family="Arial,Helvetica,sans-serif" font-size="67" font-weight="900" letter-spacing="-3" fill="url(#type)">ZAGHLOUL<tspan fill="#b2ff73">.</tspan></text>
+<path d="M38 212H394" stroke="url(#neon)" stroke-width="3" stroke-linecap="round"/>
+<text x="38" y="242" font-family="Consolas,monospace" font-size="13.6" fill="#c7d4f5">IT + SECURITY MANAGER  <tspan fill="#ba8bff">//</tspan>  PLATFORM BUILDER</text>
+<text x="38" y="263" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#8c9dbf" letter-spacing=".5">Turning complicated systems into calm operations.</text>
+<rect x=".75" y=".75" width="1078.5" height="326.5" rx="19" fill="none" stroke="#715cc4" stroke-width="1.5" opacity=".65"/>
+</svg>
