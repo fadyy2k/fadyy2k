@@ -72,16 +72,9 @@
 
 <img src="./assets/fady-proof-of-work.svg" width="100%" alt="Animated proof-of-work dashboard: seven platform phases, six sanitized engineering cases and two submitted upstream pull requests" />
 
-<details>
-<summary><b>↳ Explore case studies and submitted upstream work</b></summary>
+**[06 case studies](https://github.com/fadyy2k/engineering-case-studies)** &nbsp; ◆ &nbsp; **[Engineering delivery board](https://github.com/users/fadyy2k/projects/1)** &nbsp; ◆ &nbsp; **UPSTREAM:** [OpenCost #386](https://github.com/opencost/opencost-helm-chart/pull/386) · [Kyverno #2175](https://github.com/kyverno/website/pull/2175)
 
-**[All six engineering case studies](https://github.com/fadyy2k/engineering-case-studies)** &nbsp; · &nbsp; **[Engineering delivery board](https://github.com/users/fadyy2k/projects/1)**
-
-**[OpenCost Helm PR #386](https://github.com/opencost/opencost-helm-chart/pull/386)** &nbsp; · &nbsp; **[Kyverno docs PR #2175](https://github.com/kyverno/website/pull/2175)**
-
-<sub>Upstream PRs are submitted; check GitHub for their current review status.</sub>
-
-</details>
+<sub>Upstream pull requests were submitted; their acceptance status is maintained on GitHub.</sub>
 
 </div>
 
@@ -93,18 +86,11 @@
 
 </div>
 
-<details>
-<summary><b>🗃️ Open the rest of the toolbox, certifications and career details</b></summary>
+**BEYOND THE RACK** &nbsp; // &nbsp; VMware · Proxmox · OCI · Jenkins · Bash · Nginx · SQL Server · FortiGate · Microsoft Defender · CodeQL · Gitleaks · Cosign · Kyverno · Falco · Trivy · Tailscale
 
-**More of my stack:** VMware · Proxmox · OCI · Jenkins · Bash · Nginx · SQL Server · FortiGate · Microsoft Defender · CodeQL · Gitleaks · Cosign · Kyverno · Falco · Trivy · Tailscale
+**CREDENTIALS** &nbsp; // &nbsp; Microsoft SC-100 / SC-200 · AWS SAA-C03 / CLF-C02 · Cisco CCNA / CyberOps · IBM cloud tracks · Google IT Support &nbsp; ↗ &nbsp; [Verified credentials](https://www.credly.com/users/fady-mounir-zaghloul)
 
-**Selected credentials:** Microsoft SC-100 + SC-200 · AWS SAA-C03 + CLF-C02 · Cisco CCNA / CyberOps · IBM cloud tracks · Google IT Support
-
-**Career angle:** 12+ years across infrastructure, operations and security. My day job is keeping business systems dependable; my public projects show how I think, test and improve.
-
-[All credentials on Credly](https://www.credly.com/users/fady-mounir-zaghloul) &nbsp; · &nbsp; [Selected engineering delivery](https://github.com/users/fadyy2k/projects/1)
-
-</details>
+**THE OPERATOR** &nbsp; // &nbsp; 12+ years across infrastructure, operations and security. Keeping business systems dependable, and publishing testable engineering evidence. &nbsp; ↗ &nbsp; [Engineering delivery](https://github.com/users/fadyy2k/projects/1)
 
 ---
 
