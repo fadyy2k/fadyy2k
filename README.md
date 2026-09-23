@@ -5,14 +5,11 @@
 
 <br>
 
-<a href="https://github.com/fadyy2k"><img src="https://avatars.githubusercontent.com/u/133204319?v=4" width="148" alt="Fady's profile photo" /></a>
+<img src="./assets/fady-human-tech-strip.svg" width="100%" alt="Light neon Human First, Tech Always identity strip featuring Cloud, Security, GitOps and Recovery" />
 
-### Hey, I'm Fady. 👋
-**I fix the things people can't see — so they can keep doing the things that matter.**
+<br>
 
-🇪🇬 Cairo &nbsp; · &nbsp; 🧑‍💻 IT &amp; Security Manager &nbsp; · &nbsp; 🛠️ Platform / Cloud / DevSecOps
-
-*My kind of fun? Turning "it works on my machine" into "we can deploy it, secure it and recover it."*
+*My kind of fun? Turning "it works on my machine" into "we can deploy it, secure it and recover it."* ☕
 
 [![Portfolio](https://img.shields.io/badge/EXPLORE-Portfolio-b66bff?style=for-the-badge&logo=githubpages&logoColor=white)](https://fadyy2k.github.io/portfolio/)
 [![Case Studies](https://img.shields.io/badge/READ-Real_World_Cases-34d6f6?style=for-the-badge&logo=readthedocs&logoColor=0b1024)](https://github.com/fadyy2k/engineering-case-studies)
@@ -21,9 +18,13 @@
 
 <br>
 
-<img src="./assets/infra-flow.svg" width="95%" alt="Original animated engineering pipeline, preserved" />
-
+<!-- Original animated GIF is unchanged and stays visible. The old dark pipeline illustration
+     remains preserved as an asset in the repo, but isn't shown in this Option A layout. -->
 <img src="./assets/coding.gif" width="350" alt="Original coding GIF, preserved" />
+
+<br>
+
+<sub>Me, when the logs finally make sense. 😎</sub>
 
 </div>
 
