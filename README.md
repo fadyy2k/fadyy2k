@@ -5,18 +5,21 @@
 
 <br>
 
-<img src="./assets/fady-human-tech-strip.svg" width="100%" alt="Dark neon Engine Room panel with Platform, Automation, Observability and Resilience, matching the Fady Zaghloul hero" />
+<img src="./assets/fady-human-tech-strip.svg?v=5" width="100%" alt="Dark neon Engine Room panel with Platform, Automation, Observability and Resilience, matching the Fady Zaghloul hero" />
 
 <br>
 
 *My kind of fun? Turning "it works on my machine" into "we can deploy it, secure it and recover it."* ☕
 
+<!-- 2 x 2 layout keeps link labels and individual animated icons legible at GitHub's README width. -->
 <table>
   <tr>
-    <td width="25%"><a href="https://fadyy2k.github.io/portfolio/"><img src="./assets/fady-link-portfolio.svg" width="100%" alt="Portfolio — discover the work" /></a></td>
-    <td width="25%"><a href="https://github.com/fadyy2k/engineering-case-studies"><img src="./assets/fady-link-cases.svg" width="100%" alt="Engineering case studies — real world projects" /></a></td>
-    <td width="25%"><a href="https://www.linkedin.com/in/fady-mounir-601331b6/"><img src="./assets/fady-link-linkedin.svg" width="100%" alt="LinkedIn — connect with Fady" /></a></td>
-    <td width="25%"><a href="https://www.credly.com/users/fady-mounir-zaghloul"><img src="./assets/fady-link-credly.svg" width="100%" alt="Credly — verified credentials" /></a></td>
+    <td width="50%"><a href="https://fadyy2k.github.io/portfolio/"><img src="./assets/fady-link-portfolio.svg?v=5" width="100%" alt="Portfolio — discover the work" /></a></td>
+    <td width="50%"><a href="https://github.com/fadyy2k/engineering-case-studies"><img src="./assets/fady-link-cases.svg?v=5" width="100%" alt="Engineering case studies — real-world projects" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://www.linkedin.com/in/fady-mounir-601331b6/"><img src="./assets/fady-link-linkedin.svg?v=5" width="100%" alt="LinkedIn — connect with Fady" /></a></td>
+    <td width="50%"><a href="https://www.credly.com/users/fady-mounir-zaghloul"><img src="./assets/fady-link-credly.svg?v=5" width="100%" alt="Credly — verified credentials" /></a></td>
   </tr>
 </table>
 
@@ -70,7 +73,7 @@
 
 <div align="center">
 
-<img src="./assets/fady-proof-of-work.svg" width="100%" alt="Animated proof-of-work dashboard: seven platform phases, six sanitized engineering cases and two submitted upstream pull requests" />
+<img src="./assets/fady-proof-of-work.svg?v=5" width="100%" alt="Animated proof-of-work dashboard: seven platform phases, six sanitized engineering cases and two submitted upstream pull requests" />
 
 **[06 case studies](https://github.com/fadyy2k/engineering-case-studies)** &nbsp; ◆ &nbsp; **[Engineering delivery board](https://github.com/users/fadyy2k/projects/1)** &nbsp; ◆ &nbsp; **UPSTREAM:** [OpenCost #386](https://github.com/opencost/opencost-helm-chart/pull/386) · [Kyverno #2175](https://github.com/kyverno/website/pull/2175)
 
@@ -82,7 +85,7 @@
 
 <div align="center">
 
-<img src="./assets/fady-tool-rack.svg" width="100%" alt="Brand-colored dark mission-control inventory of AWS, Terraform, Kubernetes, GitHub Actions, Linux, Argo CD, Prometheus, Grafana, Docker, Python, Ansible and PostgreSQL" />
+<img src="./assets/fady-tool-rack.svg?v=5" width="100%" alt="Brand-colored dark mission-control inventory of AWS, Terraform, Kubernetes, GitHub Actions, Linux, Argo CD, Prometheus, Grafana, Docker, Python, Ansible and PostgreSQL" />
 
 </div>
 
