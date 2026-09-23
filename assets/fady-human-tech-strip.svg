@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="340" viewBox="0 0 1080 340" role="img" aria-labelledby="title desc">
+<title id="title">Fady, the human behind the systems</title>
+<desc id="desc">Airy pastel neon introduction with four colorful illustrated technical specialties: Cloud and Infrastructure, Security by Design, GitOps and Automation, and Recovery Mindset.</desc>
+<defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#fbf8ff"/>
+    <stop offset=".52" stop-color="#f0f9ff"/>
+    <stop offset="1" stop-color="#f1ffe9"/>
+  </linearGradient>
+  <linearGradient id="headline" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#8546f9"/>
+    <stop offset=".52" stop-color="#4666f0"/>
+    <stop offset="1" stop-color="#0bb9d8"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#b994ff"/>
+    <stop offset=".5" stop-color="#5ecff9"/>
+    <stop offset="1" stop-color="#aeed77"/>
+  </linearGradient>
+  <radialGradient id="soft"><stop stop-color="#a88cff" stop-opacity=".15"/><stop offset="1" stop-color="#a88cff" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r=".85" fill="#8f97bf" opacity=".25"/>
+  </pattern>
+</defs>
+<rect x="1" y="1" width="1078" height="338" rx="19" fill="url(#surface)" stroke="#c9c0ec" stroke-width="1.6"/>
+<rect x="13" y="13" width="1054" height="314" rx="15" fill="none" stroke="#ffffff" stroke-width="1.6" opacity=".9"/>
+<circle cx="411" cy="8" r="230" fill="url(#soft)"/>
+<rect x="18" y="18" width="1044" height="304" fill="url(#dots)" opacity=".37"/>
+<path d="M30 26h165M30 26v24M1050 314H887M1050 314v-24" stroke="url(#edge)" stroke-width="3" fill="none" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif">
+  <rect x="41" y="37" width="185" height="26" rx="13" fill="#eee5ff" stroke="#d7c5ff"/>
+  <circle cx="55" cy="50" r="4" fill="#8f49ef"><animate attributeName="opacity" values="1;.45;1" dur="3s" repeatCount="indefinite"/></circle>
+  <text x="69" y="54" fill="#6f3999" font-family="Consolas,monospace" font-size="10.5" letter-spacing="1">THE HUMAN SIDE / 01</text>
+  <text x="39" y="124" fill="#16223f" font-size="50" font-weight="900" letter-spacing="-2">HUMAN FIRST.</text>
+  <text x="39" y="181" fill="url(#headline)" font-size="50" font-weight="900" letter-spacing="-2">TECH ALWAYS.</text>
+  <path d="M41 195H391" stroke="url(#edge)" stroke-width="4" stroke-linecap="round"/>
+  <text x="41" y="225" fill="#243450" font-size="16.5" font-weight="700">Hey, I'm Fady. I make complex things</text>
+  <text x="41" y="246" fill="#243450" font-size="16.5" font-weight="700">feel simple, safe and recoverable.</text>
+  <text x="41" y="297" fill="#65728d" font-family="Consolas,monospace" font-size="10.5" letter-spacing=".6">CURIOUS BY DEFAULT  /  ENGINEER BY PRACTICE</text>
+</g>
+
+<!-- Four light, energetic technical cards: plenty of white space, no black bar -->
+<g font-family="Arial,Helvetica,sans-serif">
+  <!-- Cloud -->
+  <g transform="translate(559 37)">
+    <rect x="1" y="1" width="226" height="121" rx="15" fill="#f2eaff" stroke="#d5bcff" stroke-width="1.4"/>
+    <path d="M14 19h55" stroke="#a77cfb" stroke-width="2" stroke-linecap="round"/>
+    <path d="M27 66c-8 0-13-6-12-13 1-6 6-10 13-10 4-12 15-16 25-9 8-2 17 3 18 12 8 0 13 5 13 11s-6 10-13 10Z" fill="none" stroke="#9964e8" stroke-width="2.6" stroke-linejoin="round"/>
+    <path d="M49 54v22m-8-8 8 8 8-8" fill="none" stroke="#9964e8" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="95" y="51" font-size="16.5" font-weight="800" fill="#5a338c">CLOUD</text>
+    <text x="95" y="70" font-size="11.5" fill="#755a9d">&amp; INFRA</text>
+    <text x="18" y="100" font-family="Consolas,monospace" font-size="10" fill="#9c84b7" letter-spacing=".6">BUILD FOR CHANGE</text>
+  </g>
+  <!-- Security -->
+  <g transform="translate(803 37)">
+    <rect x="1" y="1" width="226" height="121" rx="15" fill="#eafaff" stroke="#a4e8f4" stroke-width="1.4"/>
+    <path d="M14 19h55" stroke="#5cc8e5" stroke-width="2" stroke-linecap="round"/>
+    <path d="M46 28 70 38v19c0 17-12 26-24 31-12-5-24-14-24-31V38Z" fill="none" stroke="#18abce" stroke-width="2.7" stroke-linejoin="round"/>
+    <path d="m34 56 9 9 17-19" fill="none" stroke="#18abce" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="95" y="51" font-size="16.5" font-weight="800" fill="#145d84">SECURITY</text>
+    <text x="95" y="70" font-size="11.5" fill="#458ba3">BY DESIGN</text>
+    <text x="18" y="100" font-family="Consolas,monospace" font-size="10" fill="#69a1b1" letter-spacing=".6">TRUST IS ENGINEERED</text>
+  </g>
+  <!-- GitOps -->
+  <g transform="translate(559 172)">
+    <rect x="1" y="1" width="226" height="121" rx="15" fill="#f1f2ff" stroke="#b6b8ff" stroke-width="1.4"/>
+    <path d="M14 19h55" stroke="#7d7ce9" stroke-width="2" stroke-linecap="round"/>
+    <g fill="#f1f2ff" stroke="#7776d9" stroke-width="2.5">
+      <circle cx="31" cy="35" r="6"/><circle cx="31" cy="77" r="6"/><circle cx="71" cy="57" r="6"/>
+      <path d="M31 41v30M37 35h18q16 0 16 16" fill="none"/>
+    </g>
+    <text x="95" y="51" font-size="16.5" font-weight="800" fill="#464a9d">GITOPS</text>
+    <text x="95" y="70" font-size="11.5" fill="#7177bb">&amp; AUTOMATION</text>
+    <text x="18" y="100" font-family="Consolas,monospace" font-size="10" fill="#8b8fbd" letter-spacing=".6">SHIP WITH CONFIDENCE</text>
+  </g>
+  <!-- Recovery -->
+  <g transform="translate(803 172)">
+    <rect x="1" y="1" width="226" height="121" rx="15" fill="#f2ffeb" stroke="#b8eba7" stroke-width="1.4"/>
+    <path d="M14 19h55" stroke="#93cf72" stroke-width="2" stroke-linecap="round"/>
+    <path d="M67 44a24 24 0 1 0 2 20M69 33v20H49" fill="none" stroke="#549f43" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m35 56 11 10 21-20" fill="none" stroke="#68b14e" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="95" y="51" font-size="16.5" font-weight="800" fill="#3c793a">RECOVERY</text>
+    <text x="95" y="70" font-size="11.5" fill="#66965c">MINDSET</text>
+    <text x="18" y="100" font-family="Consolas,monospace" font-size="10" fill="#80a977" letter-spacing=".6">CALM WHEN IT COUNTS</text>
+  </g>
+</g>
+</svg>
