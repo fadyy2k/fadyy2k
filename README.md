@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="./assets/fady-human-tech-strip.svg" width="100%" alt="Light neon Human First, Tech Always identity strip featuring Cloud, Security, GitOps and Recovery" />
+<img src="./assets/fady-human-tech-strip.svg" width="100%" alt="Dark neon Engine Room panel with Platform, Automation, Observability and Resilience, matching the Fady Zaghloul hero" />
 
 <br>
 
