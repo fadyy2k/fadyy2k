@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="223" viewBox="0 0 1080 223" role="img" aria-labelledby="title desc">
+<title id="title">Proof of work — phases, case studies and upstream contributions</title>
+<desc id="desc">An animated dark navy mission dashboard showing seven reference-platform phases, six sanitized case studies and two submitted upstream pull requests. Submitted does not mean accepted.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1233"/><stop offset=".56" stop-color="#090D22"/><stop offset="1" stop-color="#11102B"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#AD6BFF"/><stop offset=".5" stop-color="#32D7FB"/><stop offset="1" stop-color="#BBFF72"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8097ff" stroke-width=".6" opacity=".12"/></pattern>
+</defs>
+<rect x="1" y="1" width="1078" height="221" rx="18" fill="url(#bg)" stroke="#6556A3" stroke-width="1.4"/>
+<rect x="6" y="6" width="1068" height="210" rx="15" fill="url(#grid)" opacity=".8"/>
+<text x="24" y="28" fill="#EAE6FF" font-family="Consolas,monospace" font-size="12" letter-spacing="1.6">PROOF OF WORK <tspan fill="#B7FF8A">/ ENGINEERING LOG</tspan></text>
+<text x="868" y="28" fill="#9889C3" font-family="Consolas,monospace" font-size="9.6" letter-spacing="1.5">MISSION CONTROL / 05</text>
+<path d="M23 44H1057" stroke="#30375C"/>
+<path d="M23 44H280" stroke="url(#line)" stroke-width="2"/>
+<g transform="translate(19 61)" font-family="Arial,Helvetica,sans-serif">
+<rect width="335" height="140" rx="12" fill="#181338" stroke="#AD85FF" stroke-width="1.25"/>
+<path d="M14 17H86" stroke="#AD85FF" stroke-width="2" opacity=".95"/>
+<text x="316" y="17" text-anchor="end" fill="#AD85FF" font-family="Consolas,monospace" letter-spacing="1" font-size="9">LOG_01</text>
+<text x="16" y="87" fill="#F4F3FF" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="67" letter-spacing="-2">07</text>
+<text x="106" y="64" fill="#F1F2FF" font-weight="900" font-size="16">PLATFORM PHASES</text>
+<text x="106" y="85" fill="#A9B5D4" font-size="11.4">Designed, built, validated</text>
+<g fill="none" stroke="#AD85FF" stroke-width="2" stroke-linejoin="round"><rect x="223" y="23" width="37" height="26" rx="5"/><rect x="235" y="40" width="37" height="26" rx="5"/><rect x="247" y="57" width="37" height="26" rx="5"/><path d="M239 52h21M250 69h21" stroke-width="1.5"/></g>
+<path d="M15 114H320" stroke="#AD85FF" stroke-width="1" opacity=".33"/>
+<path d="M15 114H320" stroke="#AD85FF" stroke-width="1.7" stroke-dasharray="18 287" opacity=".9">
+<animate attributeName="stroke-dashoffset" from="0" to="-305" dur="5s" repeatCount="indefinite"/></path>
+<text x="17" y="129" fill="#AD85FF" font-family="Consolas,monospace" font-size="9.7" letter-spacing=".75">REVIEW THE EVOLUTION</text>
+</g>
+<g transform="translate(374 61)" font-family="Arial,Helvetica,sans-serif">
+<rect width="335" height="140" rx="12" fill="#102A3D" stroke="#4DD6FA" stroke-width="1.25"/>
+<path d="M14 17H86" stroke="#4DD6FA" stroke-width="2" opacity=".95"/>
+<text x="316" y="17" text-anchor="end" fill="#4DD6FA" font-family="Consolas,monospace" letter-spacing="1" font-size="9">LOG_02</text>
+<text x="16" y="87" fill="#F4F3FF" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="67" letter-spacing="-2">06</text>
+<text x="106" y="64" fill="#F1F2FF" font-weight="900" font-size="16">REAL-WORLD CASES</text>
+<text x="106" y="85" fill="#A9B5D4" font-size="11.4">Sanitized architecture stories</text>
+<g fill="none" stroke="#4DD6FA" stroke-width="2" stroke-linejoin="round"><path d="M231 22h34l12 12v49h-46Z"/><path d="M265 22v12h12M239 44h25M239 53h29M239 62h19"/></g><circle cx="274" cy="81" r="4" fill="#4DD6FA"><animate attributeName="opacity" values=".3;1;.3" dur="3.6s" repeatCount="indefinite"/></circle>
+<path d="M15 114H320" stroke="#4DD6FA" stroke-width="1" opacity=".33"/>
+<path d="M15 114H320" stroke="#4DD6FA" stroke-width="1.7" stroke-dasharray="18 287" opacity=".9">
+<animate attributeName="stroke-dashoffset" from="0" to="-305" dur="6s" repeatCount="indefinite"/></path>
+<text x="17" y="129" fill="#4DD6FA" font-family="Consolas,monospace" font-size="9.7" letter-spacing=".75">DECISIONS OVER BUZZWORDS</text>
+</g>
+<g transform="translate(729 61)" font-family="Arial,Helvetica,sans-serif">
+<rect width="335" height="140" rx="12" fill="#1B2A2C" stroke="#B7FF8A" stroke-width="1.25"/>
+<path d="M14 17H86" stroke="#B7FF8A" stroke-width="2" opacity=".95"/>
+<text x="316" y="17" text-anchor="end" fill="#B7FF8A" font-family="Consolas,monospace" letter-spacing="1" font-size="9">LOG_03</text>
+<text x="16" y="87" fill="#F4F3FF" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="67" letter-spacing="-2">02</text>
+<text x="106" y="64" fill="#F1F2FF" font-weight="900" font-size="19">UPSTREAM PRs</text>
+<text x="106" y="85" fill="#A9B5D4" font-size="11.4">Submitted, reviewable changes</text>
+<g fill="none" stroke="#B7FF8A" stroke-width="2" stroke-linejoin="round"><circle cx="230" cy="30" r="5"/><circle cx="282" cy="30" r="5"/><circle cx="255" cy="79" r="5"/><path d="M230 35v12h23q14 0 14 13v14M282 35v12h-13"/></g>
+<path d="M15 114H320" stroke="#B7FF8A" stroke-width="1" opacity=".33"/>
+<path d="M15 114H320" stroke="#B7FF8A" stroke-width="1.7" stroke-dasharray="18 287" opacity=".9">
+<animate attributeName="stroke-dashoffset" from="0" to="-305" dur="7s" repeatCount="indefinite"/></path>
+<text x="17" y="129" fill="#B7FF8A" font-family="Consolas,monospace" font-size="9.7" letter-spacing=".75">OPEN SOURCE IN PROGRESS</text>
+</g>
+<path d="M24 209H1057" stroke="#32375C" stroke-width=".7" opacity=".8"/>
+</svg>
