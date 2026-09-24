@@ -7,10 +7,10 @@
   <linearGradient id="neon" x2="1" y2="0"><stop stop-color="#ad6bff"/><stop offset=".5" stop-color="#32d7fb"/><stop offset="1" stop-color="#bbff72"/></linearGradient>
   <radialGradient id="aura"><stop stop-color="#8a4dff" stop-opacity=".35"/><stop offset="1" stop-color="#8a4dff" stop-opacity="0"/></radialGradient>
   <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8097ff" stroke-width=".55" opacity=".13"/></pattern>
-  <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>\n  <linearGradient id="scanBeam" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#32D7FB" stop-opacity="0"/><stop offset=".5" stop-color="#B7FF8A" stop-opacity=".16"/><stop offset="1" stop-color="#AD6BFF" stop-opacity="0"/></linearGradient>
 </defs>
 <rect width="1080" height="328" rx="20" fill="url(#panel)"/>
-<rect width="1080" height="328" rx="20" fill="url(#grid)"/>
+<rect width="1080" height="328" rx="20" fill="url(#grid)"/>\n<rect id="scanBeam" x="-220" y="0" width="220" height="328" fill="url(#scanBeam)" opacity=".8">\n  <animate attributeName="x" from="-220" to="1080" dur="9s" repeatCount="indefinite"/>\n</rect>
 <circle cx="836" cy="158" r="225" fill="url(#aura)"/>
 <path d="M23 57H1056 M23 279H1056" stroke="#323b66" stroke-width="1"/>
 <path d="M24 57H280 M800 279H1056" stroke="url(#neon)" stroke-width="2" opacity=".9"/>
