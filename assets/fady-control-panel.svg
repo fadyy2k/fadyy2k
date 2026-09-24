@@ -4,10 +4,10 @@
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1233"/><stop offset=".56" stop-color="#090D22"/><stop offset="1" stop-color="#11102B"/></linearGradient>
  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#AD6BFF"/><stop offset=".55" stop-color="#32D7FB"/><stop offset="1" stop-color="#BBFF72"/></linearGradient>
- <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8097ff" stroke-width=".6" opacity=".12"/></pattern>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8097ff" stroke-width=".6" opacity=".12"/></pattern>\n <linearGradient id="panelScan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#32D7FB" stop-opacity="0"/><stop offset=".5" stop-color="#32D7FB" stop-opacity=".13"/><stop offset="1" stop-color="#B7FF8A" stop-opacity="0"/></linearGradient>
 </defs>
 <rect x="1" y="1" width="1078" height="233" rx="18" fill="url(#bg)" stroke="#6256a0" stroke-width="1.4"/>
-<rect x="4" y="4" width="1072" height="226" rx="16" fill="url(#grid)"/>
+<rect x="4" y="4" width="1072" height="226" rx="16" fill="url(#grid)"/>\n<rect x="-180" y="4" width="180" height="226" rx="16" fill="url(#panelScan)" opacity=".9">\n <animate attributeName="x" from="-180" to="1080" dur="7.5s" repeatCount="indefinite"/>\n</rect>
 <circle cx="29" cy="23" r="3.2" fill="#B7FF8A"><animate attributeName="opacity" values="1;.35;1" dur="3.4s" repeatCount="indefinite"/></circle>
 <text x="42" y="27" font-family="Consolas,monospace" font-size="11" letter-spacing="1.7" fill="#d4c6f1">HOW MY BRAIN WORKS <tspan fill="#B7FF8A"> / OPERATING SYSTEM</tspan></text>
 <text x="870" y="27" font-family="Consolas,monospace" font-size="10" letter-spacing="1.5" fill="#9688c7">MISSION CONTROL / 03</text>
