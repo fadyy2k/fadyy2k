@@ -1,11 +1,10 @@
-<!-- CONCEPT: FADY // MISSION CONTROL — preview branch, not merged -->
+<!-- FADY // MISSION CONTROL -->
 <div align="center">
 
 <img src="./assets/fady-mission-hero.svg?v=6" width="100%" alt="Fady Zaghloul: personal mission-control banner, with an animated network orbit" />
 
 <br>
 
-<!-- Original animated GIF stays untouched; it now takes the Engine Room's former visual slot. -->
 <img src="./assets/coding.gif" width="58%" alt="Original animated coding GIF, preserved" />
 
 <br>
@@ -28,7 +27,6 @@
 
 <br>
 
-<!-- Engine Room moved here from directly below the hero, swapping positions with coding.gif. -->
 <img src="./assets/fady-human-tech-strip.svg?v=7" width="100%" alt="Dark neon Engine Room panel with Platform, Automation, Observability and Resilience, matching the Fady Zaghloul hero" />
 
 <br>
