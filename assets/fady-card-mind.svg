@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="348" height="180" viewBox="0 0 348 180" role="img" aria-labelledby="title desc">
+<title id="title">MIND</title><desc id="desc">DEVSECOPS. Pipelines, gates, GitOps.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#21143f"/><stop offset="1" stop-color="#12112f"/></linearGradient></defs>
+<rect x="1" y="1" width="346" height="178" rx="15" fill="url(#bg)" stroke="#b495ff" stroke-opacity=".65" stroke-width="1.5"/>
+<path d="M16 31H330" stroke="#b495ff" opacity=".4"/><circle cx="18" cy="31" r="2.4" fill="#b495ff"><animate attributeName="cx" values="18;328;18" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;1;.15" dur="8s" repeatCount="indefinite"/></circle>
+<text x="17" y="22" fill="#b495ff" font-family="Consolas,monospace" font-size="10.5" letter-spacing="1.1">02 / SIDE QUEST</text>
+<text x="17" y="68" fill="#f4f2ff" font-family="Arial,sans-serif" font-size="27" font-weight="800">MIND</text>
+<text x="18" y="93" fill="#b495ff" font-family="Consolas,monospace" font-size="12">DEVSECOPS</text>
+<text x="18" y="126" fill="#b9c4df" font-family="Arial,sans-serif" font-size="12.5">Pipelines, gates, GitOps.</text>
+<path d="M252 57L292 31L331 57V103L292 126L252 103Z" fill="none" stroke="#b495ff" stroke-width="2"/><circle cx="292" cy="79" r="17" fill="none" stroke="#b495ff" stroke-width="2"/><path d="M292 61V97M274 79H310M266 50l52 57M318 50l-52 57" fill="none" stroke="#b495ff" opacity=".7"><animateTransform attributeName="transform" type="rotate" from="0 292 79" to="360 292 79" dur="18s" repeatCount="indefinite"/></path>
+<path d="M17 150H330" stroke="#b495ff" opacity=".32"/><path d="M17 150H330" stroke="#b495ff" stroke-width="2" stroke-linecap="round" stroke-dasharray="34 279" opacity=".78"><animate attributeName="stroke-dashoffset" from="313" to="-313" dur="6.5s" repeatCount="indefinite"/></path>
+<text x="18" y="166" font-family="Consolas,monospace" font-size="10" fill="#8f9eba">VIEW SOURCE &gt;</text>
+</svg>

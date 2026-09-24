@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="272" viewBox="0 0 1080 272" role="img" aria-labelledby="title desc">
+<title id="title">The flagship project: Platform Engineering, GitOps and SRE</title><desc id="desc">Purple to cyan platform schematic with source, secure CI, GitOps and observable runtime stages; local historical evidence, no active AWS claim.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#18104b"/><stop offset=".65" stop-color="#111831"/><stop offset="1" stop-color="#0a2133"/></linearGradient>
+ <linearGradient id="flow"><stop stop-color="#ac70ff"/><stop offset=".52" stop-color="#4dbaff"/><stop offset="1" stop-color="#b1ff88"/></linearGradient>
+ <filter id="sh"><feGaussianBlur stdDeviation="2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1080" height="272" rx="19" fill="url(#bg)" stroke="#6660a7" stroke-width="1.5"/>
+<path d="M24 53H1055" stroke="#514c83" opacity=".9"/>
+<text x="27" y="33" fill="#b4ecfe" font-size="12" letter-spacing="2" font-family="Consolas,monospace">FEATURED SYSTEM  /  001</text>
+<rect x="896" y="15" width="154" height="23" rx="12" fill="#1d3f40" stroke="#75e59f"/>
+<text x="973" y="31" font-size="10.5" font-family="Consolas,monospace" fill="#bfffbb" text-anchor="middle">PUBLIC / REVIEWABLE</text>
+<text x="28" y="109" fill="#f2edff" font-family="Arial,sans-serif" font-size="41" font-weight="900" letter-spacing="-1.5">THE PLATFORM<tspan fill="#ae86ff">.</tspan></text>
+<text x="30" y="143" fill="#b3bfe9" font-family="Arial,sans-serif" font-size="17">GitOps  x  Secure Supply Chain  x  Reliability</text>
+<text x="30" y="175" fill="#9faed4" font-family="Consolas,monospace" font-size="12">TERRAFORM   /   COSIGN   /   KYVERNO   /   PROMETHEUS</text>
+<g font-family="Consolas,monospace">
+ <rect x="28" y="193" width="243" height="33" rx="8" fill="#251c50" stroke="#8b71ed"/>
+ <text x="149" y="214" text-anchor="middle" font-size="12" fill="#d4caff">LOCAL LAB / VERIFIED HISTORY</text>
+ <rect x="281" y="193" width="185" height="33" rx="8" fill="#133044" stroke="#3cacc4"/>
+ <text x="373" y="214" text-anchor="middle" font-size="12" fill="#a3f0fa">AWS / NOT ACTIVE</text>
+</g>
+<g transform="translate(581 77)" font-family="Consolas,monospace">
+ <path d="M44 77H430" stroke="url(#flow)" stroke-width="3" stroke-dasharray="8 9" opacity=".8"/>
+ <g stroke-width="2">
+  <rect x="0" y="38" width="91" height="77" rx="12" fill="#211a4a" stroke="#9b80fa"/>
+  <rect x="114" y="38" width="91" height="77" rx="12" fill="#16284c" stroke="#63a9f5"/>
+  <rect x="228" y="38" width="91" height="77" rx="12" fill="#11364a" stroke="#42d6e6"/>
+  <rect x="342" y="38" width="104" height="77" rx="12" fill="#23382d" stroke="#a6ee81"/>
+ </g>
+ <g text-anchor="middle" font-size="11" fill="#e4eafa" font-weight="bold">
+  <text x="46" y="66">SOURCE</text><text x="46" y="87" fill="#ab9bd8" font-size="9">PR + REVIEW</text>
+  <text x="159" y="66">VERIFY</text><text x="159" y="87" fill="#a1b4e8" font-size="9">SIGN + SCAN</text>
+  <text x="274" y="66">GITOPS</text><text x="274" y="87" fill="#99e8ef" font-size="9">ADMISSION</text>
+  <text x="394" y="66">OPERATE</text><text x="394" y="87" fill="#b8e7ac" font-size="9">SLO + DR</text>
+ </g>
+ <g fill="#baff9b" filter="url(#sh)">
+  <circle r="4"><animateMotion path="M46 77H404" dur="4s" repeatCount="indefinite"/></circle>
+ </g>
+ <text x="224" y="151" font-size="10" text-anchor="middle" fill="#9da7cf" letter-spacing="1.5">DESIGNED FOR THE FAILURE PATH</text>
+</g>
+<text x="27" y="254" fill="#7182aa" font-family="Consolas,monospace" font-size="10">OPEN THE REPO FOR THE CODE. OPEN THE EVIDENCE FOR WHAT WAS TESTED.</text>
+</svg>

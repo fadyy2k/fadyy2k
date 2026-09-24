@@ -1,0 +1,208 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="744" viewBox="0 0 1080 744" role="img" aria-labelledby="title desc">
+<title id="title">Technology tool rack — twelve large readable, branded engineering cards</title>
+<desc id="desc">Animated, generously spaced two-column inventory with brand-colored original technical symbols: AWS, Terraform, Kubernetes, GitHub Actions, Linux, Argo CD, Prometheus, Grafana, Docker, Python, Ansible and PostgreSQL.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1233"/><stop offset=".54" stop-color="#090D22"/><stop offset="1" stop-color="#11102B"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#AD6BFF"/><stop offset=".5" stop-color="#32D7FB"/><stop offset="1" stop-color="#BBFF72"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8097FF" stroke-width=".65" opacity=".12"/></pattern>
+</defs>
+<rect x="1" y="1" width="1078" height="742" rx="19" fill="url(#bg)" stroke="#6455A3" stroke-width="1.45"/>
+<rect x="8" y="8" width="1064" height="728" rx="15" fill="url(#grid)" opacity=".78"/>
+<text x="26" y="30" font-family="Consolas,Menlo,monospace" font-size="14" letter-spacing="1.4" fill="#EBE8FF">THE TOOL RACK <tspan fill="#B7FF8A">/ BRAND COLORS, ONE SYSTEM</tspan></text>
+<text x="846" y="28" font-family="Consolas,Menlo,monospace" font-size="10.5" letter-spacing="1.15" fill="#A394CD">MISSION CONTROL / 06</text>
+<path d="M24 44H1056" stroke="#354064"/><path d="M24 44H280" stroke="url(#line)" stroke-width="2.2"/>
+<g transform="translate(20 58)" font-family="Arial,Helvetica,sans-serif">
+  <rect width="510" height="100" rx="13" fill="#111832" stroke="#3C466A" stroke-width="1.25"/>
+  <path d="M15 12H105" stroke="#FF9900" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="14" y="21" width="88" height="66" rx="10" fill="#FF9900" fill-opacity=".075" stroke="#FF9900" stroke-opacity=".43" stroke-width="1"/>
+  <g transform="translate(7 4) scale(.92)"><g stroke="#FF9900" stroke-width="2.4" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="M22 49q-5-17 12-21Q43 13 58 24q17-2 20 16q14 4 9 16-3 7-13 7H36q-14 0-14-14Z"/><path d="M32 71q22 13 48-2M77 66l3 3-5 6"/></g></g>
+  <text x="124" y="47" font-size="24" font-weight="900" fill="#F2F3FF" letter-spacing=".2">AWS</text>
+  <text x="125" y="73" font-family="Consolas,Menlo,monospace" font-size="15.3" letter-spacing=".25" fill="#D2DDF2">CLOUD</text>
+  <text x="489" y="21" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing=".7" fill="#FF9900">TECH_01</text>
+  <path d="M124 88H488" stroke="#FF9900" stroke-width="1.1" opacity=".27"/>
+  <path d="M124 88H488" stroke="#FF9900" stroke-width="2" stroke-linecap="round" stroke-dasharray="35 330" opacity=".83">
+    <animate attributeName="stroke-dashoffset" from="365" to="-365" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="482" cy="39" r="3.2" fill="#B7FF8A">
+    <animate attributeName="opacity" values=".28;1;.28" dur="2.7s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g transform="translate(550 58)" font-family="Arial,Helvetica,sans-serif">
+  <rect width="510" height="100" rx="13" fill="#111832" stroke="#3C466A" stroke-width="1.25"/>
+  <path d="M15 12H105" stroke="#844FBA" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="14" y="21" width="88" height="66" rx="10" fill="#844FBA" fill-opacity=".075" stroke="#844FBA" stroke-opacity=".43" stroke-width="1"/>
+  <g transform="translate(7 4) scale(.92)"><g stroke="#844FBA" stroke-width="1.7" fill="#844FBA" fill-opacity=".28"><path d="M31 21 44 28v15L31 36Z"/><path d="M45 28 58 21v15L45 43Z"/><path d="M31 40 44 47v15L31 55Z"/><path d="M60 40 73 47v15L60 55Z"/></g></g>
+  <text x="124" y="47" font-size="24" font-weight="900" fill="#F2F3FF" letter-spacing=".2">TERRAFORM</text>
+  <text x="125" y="73" font-family="Consolas,Menlo,monospace" font-size="15.3" letter-spacing=".25" fill="#D2DDF2">INFRASTRUCTURE AS CODE</text>
+  <text x="489" y="21" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing=".7" fill="#844FBA">TECH_02</text>
+  <path d="M124 88H488" stroke="#844FBA" stroke-width="1.1" opacity=".27"/>
+  <path d="M124 88H488" stroke="#844FBA" stroke-width="2" stroke-linecap="round" stroke-dasharray="35 330" opacity=".83">
+    <animate attributeName="stroke-dashoffset" from="365" to="-365" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="482" cy="39" r="3.2" fill="#844FBA">
+    <animate attributeName="opacity" values=".28;1;.28" dur="3.1s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g transform="translate(20 170)" font-family="Arial,Helvetica,sans-serif">
+  <rect width="510" height="100" rx="13" fill="#111832" stroke="#3C466A" stroke-width="1.25"/>
+  <path d="M15 12H105" stroke="#326CE5" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="14" y="21" width="88" height="66" rx="10" fill="#326CE5" fill-opacity=".075" stroke="#326CE5" stroke-opacity=".43" stroke-width="1"/>
+  <g transform="translate(7 4) scale(.92)"><g stroke="#326CE5" stroke-width="2.1" fill="none"><circle cx="51" cy="44" r="23"/><circle cx="51" cy="44" r="8"/><path d="M51 21v15m0 16v15M28 44h15m16 0h15M34 27l12 12m11 11 11 11M68 27 57 39M45 50 34 61"/><g fill="#326CE5" stroke="none"><circle cx="51" cy="21" r="3"/><circle cx="74" cy="44" r="3"/><circle cx="28" cy="44" r="3"/></g></g></g>
+  <text x="124" y="47" font-size="24" font-weight="900" fill="#F2F3FF" letter-spacing=".2">KUBERNETES</text>
+  <text x="125" y="73" font-family="Consolas,Menlo,monospace" font-size="15.3" letter-spacing=".25" fill="#D2DDF2">ORCHESTRATION</text>
+  <text x="489" y="21" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing=".7" fill="#326CE5">TECH_03</text>
+  <path d="M124 88H488" stroke="#326CE5" stroke-width="1.1" opacity=".27"/>
+  <path d="M124 88H488" stroke="#326CE5" stroke-width="2" stroke-linecap="round" stroke-dasharray="35 330" opacity=".83">
+    <animate attributeName="stroke-dashoffset" from="365" to="-365" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="482" cy="39" r="3.2" fill="#326CE5">
+    <animate attributeName="opacity" values=".28;1;.28" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g transform="translate(550 170)" font-family="Arial,Helvetica,sans-serif">
+  <rect width="510" height="100" rx="13" fill="#111832" stroke="#3C466A" stroke-width="1.25"/>
+  <path d="M15 12H105" stroke="#2088FF" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="14" y="21" width="88" height="66" rx="10" fill="#2088FF" fill-opacity=".075" stroke="#2088FF" stroke-opacity=".43" stroke-width="1"/>
+  <g transform="translate(7 4) scale(.92)"><g stroke="#2088FF" stroke-width="2.1" fill="none" stroke-linecap="round"><circle cx="35" cy="24" r="5"/><circle cx="67" cy="45" r="5"/><circle cx="35" cy="69" r="5"/><path d="M35 29v32M40 25h8q16 0 19 15M40 69h8q16 0 19-19"/><path d="M44 45l9-6v12Z" fill="#2088FF" stroke="none"/></g></g>
+  <text x="124" y="47" font-size="24" font-weight="900" fill="#F2F3FF" letter-spacing=".2">GITHUB ACTIONS</text>
+  <text x="125" y="73" font-family="Consolas,Menlo,monospace" font-size="15.3" letter-spacing=".25" fill="#D2DDF2">CONTINUOUS DELIVERY</text>
+  <text x="489" y="21" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing=".7" fill="#2088FF">TECH_04</text>
+  <path d="M124 88H488" stroke="#2088FF" stroke-width="1.1" opacity=".27"/>
+  <path d="M124 88H488" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-dasharray="35 330" opacity=".83">
+    <animate attributeName="stroke-dashoffset" from="365" to="-365" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="482" cy="39" r="3.2" fill="#B7FF8A">
+    <animate attributeName="opacity" values=".28;1;.28" dur="3.9000000000000004s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g transform="translate(20 282)" font-family="Arial,Helvetica,sans-serif">
+  <rect width="510" height="100" rx="13" fill="#111832" stroke="#3C466A" stroke-width="1.25"/>
+  <path d="M15 12H105" stroke="#FCC624" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="14" y="21" width="88" height="66" rx="10" fill="#FCC624" fill-opacity=".075" stroke="#FCC624" stroke-opacity=".43" stroke-width="1"/>
+  <g transform="translate(7 4) scale(.92)"><g stroke="#FCC624" stroke-width="2.1" fill="none" stroke-linejoin="round"><rect x="22" y="21" width="59" height="47" rx="7"/><path d="m31 37 10 9-10 9m18 0h20"/></g></g>
+  <text x="124" y="47" font-size="24" font-weight="900" fill="#F2F3FF" letter-spacing=".2">LINUX</text>
+  <text x="125" y="73" font-family="Consolas,Menlo,monospace" font-size="15.3" letter-spacing=".25" fill="#D2DDF2">SYSTEM OPERATIONS</text>
+  <text x="489" y="21" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing=".7" fill="#FCC624">TECH_05</text>
+  <path d="M124 88H488" stroke="#FCC624" stroke-width="1.1" opacity=".27"/>
+  <path d="M124 88H488" stroke="#FCC624" stroke-width="2" stroke-linecap="round" stroke-dasharray="35 330" opacity=".83">
+    <animate attributeName="stroke-dashoffset" from="365" to="-365" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="482" cy="39" r="3.2" fill="#FCC624">
+    <animate attributeName="opacity" values=".28;1;.28" dur="2.7s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g transform="translate(550 282)" font-family="Arial,Helvetica,sans-serif">
+  <rect width="510" height="100" rx="13" fill="#111832" stroke="#3C466A" stroke-width="1.25"/>
+  <path d="M15 12H105" stroke="#EF7B4D" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="14" y="21" width="88" height="66" rx="10" fill="#EF7B4D" fill-opacity=".075" stroke="#EF7B4D" stroke-opacity=".43" stroke-width="1"/>
+  <g transform="translate(7 4) scale(.92)"><g fill="none" stroke="#EF7B4D" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="31" cy="26" r="4"/><circle cx="71" cy="26" r="4"/><circle cx="51" cy="69" r="4"/><path d="M31 30v14q0 11 13 11h7v10M71 30v14q0 11-13 11h-7"/><path d="m48 22 8 5-8 5" transform="translate(-6 0)"/></g></g>
+  <text x="124" y="47" font-size="24" font-weight="900" fill="#F2F3FF" letter-spacing=".2">ARGO CD</text>
+  <text x="125" y="73" font-family="Consolas,Menlo,monospace" font-size="15.3" letter-spacing=".25" fill="#D2DDF2">GITOPS</text>
+  <text x="489" y="21" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing=".7" fill="#EF7B4D">TECH_06</text>
+  <path d="M124 88H488" stroke="#EF7B4D" stroke-width="1.1" opacity=".27"/>
+  <path d="M124 88H488" stroke="#EF7B4D" stroke-width="2" stroke-linecap="round" stroke-dasharray="35 330" opacity=".83">
+    <animate attributeName="stroke-dashoffset" from="365" to="-365" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="482" cy="39" r="3.2" fill="#EF7B4D">
+    <animate attributeName="opacity" values=".28;1;.28" dur="3.1s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g transform="translate(20 394)" font-family="Arial,Helvetica,sans-serif">
+  <rect width="510" height="100" rx="13" fill="#111832" stroke="#3C466A" stroke-width="1.25"/>
+  <path d="M15 12H105" stroke="#E6522C" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="14" y="21" width="88" height="66" rx="10" fill="#E6522C" fill-opacity=".075" stroke="#E6522C" stroke-opacity=".43" stroke-width="1"/>
+  <g transform="translate(7 4) scale(.92)"><path d="M56 19q4 17-8 23-2-13-10-18 0 18-7 24-9 11-3 22 6 11 22 11 22-1 26-20 1-12-10-25 2 17-9 20 0-16-1-37Z" fill="#E6522C" fill-opacity=".26" stroke="#E6522C" stroke-width="2.2" stroke-linejoin="round"/><path d="M45 56q-1 7-5 12 3 10 12 10 10-2 10-11-6 3-7-9-4 7-10-2Z" fill="#E6522C"/></g>
+  <text x="124" y="47" font-size="24" font-weight="900" fill="#F2F3FF" letter-spacing=".2">PROMETHEUS</text>
+  <text x="125" y="73" font-family="Consolas,Menlo,monospace" font-size="15.3" letter-spacing=".25" fill="#D2DDF2">METRICS</text>
+  <text x="489" y="21" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing=".7" fill="#E6522C">TECH_07</text>
+  <path d="M124 88H488" stroke="#E6522C" stroke-width="1.1" opacity=".27"/>
+  <path d="M124 88H488" stroke="#E6522C" stroke-width="2" stroke-linecap="round" stroke-dasharray="35 330" opacity=".83">
+    <animate attributeName="stroke-dashoffset" from="365" to="-365" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="482" cy="39" r="3.2" fill="#B7FF8A">
+    <animate attributeName="opacity" values=".28;1;.28" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g transform="translate(550 394)" font-family="Arial,Helvetica,sans-serif">
+  <rect width="510" height="100" rx="13" fill="#111832" stroke="#3C466A" stroke-width="1.25"/>
+  <path d="M15 12H105" stroke="#F46800" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="14" y="21" width="88" height="66" rx="10" fill="#F46800" fill-opacity=".075" stroke="#F46800" stroke-opacity=".43" stroke-width="1"/>
+  <g transform="translate(7 4) scale(.92)"><g stroke="#F46800" stroke-width="2.4" fill="none" stroke-linecap="round"><path d="M25 63a29 29 0 1 1 55 0"/><path d="M51 57 66 35" stroke-width="3"/><circle cx="51" cy="57" r="4" fill="#F46800"/><path d="M30 72h42" stroke-width="1.5"/><circle cx="51" cy="38" r="24" opacity=".23" stroke-dasharray="8 13"><animateTransform attributeName="transform" type="rotate" from="0 51 38" to="360 51 38" dur="24s" repeatCount="indefinite"/></circle></g></g>
+  <text x="124" y="47" font-size="24" font-weight="900" fill="#F2F3FF" letter-spacing=".2">GRAFANA</text>
+  <text x="125" y="73" font-family="Consolas,Menlo,monospace" font-size="15.3" letter-spacing=".25" fill="#D2DDF2">DASHBOARDS</text>
+  <text x="489" y="21" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing=".7" fill="#F46800">TECH_08</text>
+  <path d="M124 88H488" stroke="#F46800" stroke-width="1.1" opacity=".27"/>
+  <path d="M124 88H488" stroke="#F46800" stroke-width="2" stroke-linecap="round" stroke-dasharray="35 330" opacity=".83">
+    <animate attributeName="stroke-dashoffset" from="365" to="-365" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="482" cy="39" r="3.2" fill="#F46800">
+    <animate attributeName="opacity" values=".28;1;.28" dur="3.9000000000000004s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g transform="translate(20 506)" font-family="Arial,Helvetica,sans-serif">
+  <rect width="510" height="100" rx="13" fill="#111832" stroke="#3C466A" stroke-width="1.25"/>
+  <path d="M15 12H105" stroke="#2496ED" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="14" y="21" width="88" height="66" rx="10" fill="#2496ED" fill-opacity=".075" stroke="#2496ED" stroke-opacity=".43" stroke-width="1"/>
+  <g transform="translate(7 4) scale(.92)"><g fill="#2496ED" fill-opacity=".25" stroke="#2496ED" stroke-width="1.5"><rect x="25" y="30" width="11" height="11" rx="2"/><rect x="39" y="30" width="11" height="11" rx="2"/><rect x="53" y="30" width="11" height="11" rx="2"/><rect x="39" y="44" width="11" height="11" rx="2"/><rect x="53" y="44" width="11" height="11" rx="2"/><rect x="67" y="44" width="11" height="11" rx="2"/><path d="M22 61q29 13 61 0" fill="none" stroke-width="2.2"/></g></g>
+  <text x="124" y="47" font-size="24" font-weight="900" fill="#F2F3FF" letter-spacing=".2">DOCKER</text>
+  <text x="125" y="73" font-family="Consolas,Menlo,monospace" font-size="15.3" letter-spacing=".25" fill="#D2DDF2">CONTAINERS</text>
+  <text x="489" y="21" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing=".7" fill="#2496ED">TECH_09</text>
+  <path d="M124 88H488" stroke="#2496ED" stroke-width="1.1" opacity=".27"/>
+  <path d="M124 88H488" stroke="#2496ED" stroke-width="2" stroke-linecap="round" stroke-dasharray="35 330" opacity=".83">
+    <animate attributeName="stroke-dashoffset" from="365" to="-365" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="482" cy="39" r="3.2" fill="#2496ED">
+    <animate attributeName="opacity" values=".28;1;.28" dur="2.7s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g transform="translate(550 506)" font-family="Arial,Helvetica,sans-serif">
+  <rect width="510" height="100" rx="13" fill="#111832" stroke="#3C466A" stroke-width="1.25"/>
+  <path d="M15 12H105" stroke="#3776AB" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="14" y="21" width="88" height="66" rx="10" fill="#3776AB" fill-opacity=".075" stroke="#3776AB" stroke-opacity=".43" stroke-width="1"/>
+  <g transform="translate(7 4) scale(.92)"><g fill="none" stroke-width="2.4" stroke-linejoin="round"><path d="M25 43V32q0-12 14-12h22q9 0 9 9v16H44q-9 0-9 9" stroke="#3776AB"/><circle cx="55" cy="28" r="2.5" fill="#3776AB"/><path d="M76 47v12q0 13-14 13H41q-9 0-9-10V46h25q10 0 10-9" stroke="#FFD43B"/><circle cx="48" cy="64" r="2.5" fill="#FFD43B"/></g></g>
+  <text x="124" y="47" font-size="24" font-weight="900" fill="#F2F3FF" letter-spacing=".2">PYTHON</text>
+  <text x="125" y="73" font-family="Consolas,Menlo,monospace" font-size="15.3" letter-spacing=".25" fill="#D2DDF2">AUTOMATION</text>
+  <text x="489" y="21" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing=".7" fill="#3776AB">TECH_10</text>
+  <path d="M124 88H488" stroke="#3776AB" stroke-width="1.1" opacity=".27"/>
+  <path d="M124 88H488" stroke="#3776AB" stroke-width="2" stroke-linecap="round" stroke-dasharray="35 330" opacity=".83">
+    <animate attributeName="stroke-dashoffset" from="365" to="-365" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="482" cy="39" r="3.2" fill="#B7FF8A">
+    <animate attributeName="opacity" values=".28;1;.28" dur="3.1s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g transform="translate(20 618)" font-family="Arial,Helvetica,sans-serif">
+  <rect width="510" height="100" rx="13" fill="#111832" stroke="#3C466A" stroke-width="1.25"/>
+  <path d="M15 12H105" stroke="#EE0000" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="14" y="21" width="88" height="66" rx="10" fill="#EE0000" fill-opacity=".075" stroke="#EE0000" stroke-opacity=".43" stroke-width="1"/>
+  <g transform="translate(7 4) scale(.92)"><g stroke="#EE0000" stroke-width="2.3" fill="none" stroke-linejoin="round"><circle cx="51" cy="46" r="29"/><path d="m51 24-15 43 17-16 13 16-15-43Z"/></g></g>
+  <text x="124" y="47" font-size="24" font-weight="900" fill="#F2F3FF" letter-spacing=".2">ANSIBLE</text>
+  <text x="125" y="73" font-family="Consolas,Menlo,monospace" font-size="15.3" letter-spacing=".25" fill="#D2DDF2">REPEATABILITY</text>
+  <text x="489" y="21" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing=".7" fill="#EE0000">TECH_11</text>
+  <path d="M124 88H488" stroke="#EE0000" stroke-width="1.1" opacity=".27"/>
+  <path d="M124 88H488" stroke="#EE0000" stroke-width="2" stroke-linecap="round" stroke-dasharray="35 330" opacity=".83">
+    <animate attributeName="stroke-dashoffset" from="365" to="-365" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="482" cy="39" r="3.2" fill="#EE0000">
+    <animate attributeName="opacity" values=".28;1;.28" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g transform="translate(550 618)" font-family="Arial,Helvetica,sans-serif">
+  <rect width="510" height="100" rx="13" fill="#111832" stroke="#3C466A" stroke-width="1.25"/>
+  <path d="M15 12H105" stroke="#336791" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="14" y="21" width="88" height="66" rx="10" fill="#336791" fill-opacity=".075" stroke="#336791" stroke-opacity=".43" stroke-width="1"/>
+  <g transform="translate(7 4) scale(.92)"><g stroke="#336791" stroke-width="2.3" fill="#336791" fill-opacity=".1"><ellipse cx="52" cy="29" rx="25" ry="9"/><path d="M27 29v34q0 9 25 9t25-9V29" fill="none"/><path d="M27 41q0 9 25 9t25-9M27 53q0 9 25 9t25-9" fill="none" stroke-width="1.4"/></g></g>
+  <text x="124" y="47" font-size="24" font-weight="900" fill="#F2F3FF" letter-spacing=".2">POSTGRESQL</text>
+  <text x="125" y="73" font-family="Consolas,Menlo,monospace" font-size="15.3" letter-spacing=".25" fill="#D2DDF2">DATA</text>
+  <text x="489" y="21" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing=".7" fill="#336791">TECH_12</text>
+  <path d="M124 88H488" stroke="#336791" stroke-width="1.1" opacity=".27"/>
+  <path d="M124 88H488" stroke="#336791" stroke-width="2" stroke-linecap="round" stroke-dasharray="35 330" opacity=".83">
+    <animate attributeName="stroke-dashoffset" from="365" to="-365" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="482" cy="39" r="3.2" fill="#336791">
+    <animate attributeName="opacity" values=".28;1;.28" dur="3.9000000000000004s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<text x="23" y="736" font-family="Consolas,Menlo,monospace" font-size="10" fill="#A0ACD2" letter-spacing="1.1">SYSTEMS / TOOLS / SIGNALS</text>
+<text x="1050" y="736" font-family="Consolas,Menlo,monospace" font-size="10" fill="#B7FF8A" text-anchor="end" letter-spacing="1.1">READY FOR THE NEXT BUILD</text>
+</svg>

@@ -1,172 +1,114 @@
+<!-- CONCEPT: FADY // MISSION CONTROL — preview branch, not merged -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0ea5e9&height=190&section=header&text=Fady%20Mounir%20Zaghloul&fontSize=40&fontColor=e2e8f0&fontAlignY=38&desc=IT%20and%20Security%20%7C%20Platform%20and%20Infrastructure%20Engineering%20%7C%20DevSecOps&descSize=14&descAlignY=59&descColor=94a3b8" alt="Fady Mounir Zaghloul" />
+<img src="./assets/fady-mission-hero.svg?v=6" width="100%" alt="Fady Zaghloul: personal mission-control banner, with an animated network orbit" />
 
-<img src="./assets/infra-flow.svg" width="900" alt="Animated engineering delivery flow from source control to platform operations" />
+<br>
 
-<img src="./assets/coding.gif" width="480" alt="Coding animation" />
+<!-- Original animated GIF stays untouched; it now takes the Engine Room's former visual slot. -->
+<img src="./assets/coding.gif" width="58%" alt="Original animated coding GIF, preserved" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=0EA5E9&center=true&vCenter=true&width=780&lines=Design+for+rollback%2C+not+only+deployment;Short-lived+OIDC+credentials+over+stored+cloud+keys;Signed+artifacts+%2B+policy+before+runtime;SLOs+and+runbooks+before+dashboard+decoration;Public+evidence%2C+private+operational+detail)](https://git.io/typing-svg)
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white)](https://fadyy2k.github.io/portfolio/)
-[![Engineering Case Studies](https://img.shields.io/badge/Case_Studies-Architecture_%7C_Reliability-34d399?style=for-the-badge&logo=readthedocs&logoColor=111827)](https://github.com/fadyy2k/engineering-case-studies)
-[![Selected Engineering Delivery](https://img.shields.io/badge/Delivery_Board-Selected_Engineering_Work-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/fadyy2k/projects/1)
-[![Engineering Lab Roadmap](https://img.shields.io/badge/Lab_Roadmap-Platform_%7C_DevSecOps-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/fadyy2k/projects/2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fady-mounir-601331b6/)
-[![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fady-mounir-zaghloul)
+<sub>Me, when the logs finally make sense. 😎</sub>
+
+<br>
+
+<!-- 2 x 2 layout keeps link labels and individual animated icons legible at GitHub's README width. -->
+<table>
+  <tr>
+    <td width="50%"><a href="https://fadyy2k.github.io/portfolio/"><img src="./assets/fady-link-portfolio.svg?v=6" width="100%" alt="Portfolio — discover the work" /></a></td>
+    <td width="50%"><a href="https://github.com/fadyy2k/engineering-case-studies"><img src="./assets/fady-link-cases.svg?v=6" width="100%" alt="Engineering case studies — real-world projects" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://www.linkedin.com/in/fady-mounir-601331b6/"><img src="./assets/fady-link-linkedin.svg?v=6" width="100%" alt="LinkedIn — connect with Fady" /></a></td>
+    <td width="50%"><a href="https://www.credly.com/users/fady-mounir-zaghloul"><img src="./assets/fady-link-credly.svg?v=6" width="100%" alt="Credly — verified credentials" /></a></td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Engine Room moved here from directly below the hero, swapping positions with coding.gif. -->
+<img src="./assets/fady-human-tech-strip.svg?v=7" width="100%" alt="Dark neon Engine Room panel with Platform, Automation, Observability and Resilience, matching the Fady Zaghloul hero" />
+
+<br>
+
+*My kind of fun? Turning "it works on my machine" into "we can deploy it, secure it and recover it."* ☕
 
 </div>
 
 ---
 
-## `whoami`
+<div align="center">
 
-```yaml
-name: Fady Mounir Zaghloul
-current_role: IT & Security Manager @ AsusCard FinTech
-location: Cairo, Egypt
-experience: 12+ years across infrastructure, cloud, operations and security
+<img src="./assets/fady-control-panel.svg?v=6" width="100%" alt="Animated How My Brain Works mission-control panel: Build, Secure and Recover" />
 
-engineering_focus:
-  - platform and infrastructure engineering
-  - cloud architecture and migration
-  - DevSecOps and software supply-chain security
-  - observability, SLOs and operational reliability
-  - identity, endpoint and infrastructure security
-
-open_to:
-  - Infrastructure / Platform Lead
-  - Cloud / Platform Engineer
-  - DevOps / SRE
-  - Security Architecture / Operations
-```
-
-## 🧭 Engineering principles
-
-- **Rollback is a feature.** A deployment path is incomplete until the known-good recovery path is documented and tested.
-- **Identity before static credentials.** Prefer short-lived OIDC/workload identity and least privilege over stored cloud keys.
-- **Security belongs in delivery.** Scan source/configuration, generate provenance/SBOM, sign artifacts, then enforce policy at admission/runtime.
-- **Operate from signals.** SLOs, error budgets, runbooks and recovery tests matter more than decorative dashboards.
-- **Public evidence ≠ public infrastructure.** Production write-ups are sanitized; credentials, live endpoints, private network plans and customer data stay private.
+</div>
 
 ---
 
-## 🚀 Current flagship — AWS EKS Platform Engineering
+### `01 // THE MAIN QUEST` &nbsp; 🚀
 
 <a href="https://github.com/fadyy2k/platform-engineering-eks-gitops">
-  <img src="https://img.shields.io/badge/Platform_Engineering-EKS_%7C_Terraform_%7C_Argo_CD-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="AWS EKS Platform Engineering" />
+  <img src="./assets/fady-feature-platform.svg" width="100%" alt="Open the flagship platform project: GitOps, security and reliability architecture" />
 </a>
 
-A production-style public reference implementation that now covers:
+**[See the architecture](https://fadyy2k.github.io/platform-engineering-eks-gitops/)** &nbsp; · &nbsp; **[View real test evidence](https://fadyy2k.github.io/platform-engineering-eks-gitops/LOCAL_RUNTIME/)** &nbsp; · &nbsp; **[Explore v0.7.1](https://github.com/fadyy2k/platform-engineering-eks-gitops/releases/tag/v0.7.1)**
 
-`Terraform` · `AWS EKS` · `GitHub OIDC` · `Argo CD` · `Cosign` · `Kyverno` · `Falco` · `Trivy Operator` · `Prometheus/Grafana` · `SLOs` · `OpenCost` · `VPA recommendations` · `backup/game-day patterns` · `DR architecture`
-
-- Seven staged engineering releases from baseline through live-readiness and local runtime evidence
-- protected `main`, required security checks and signed commits
-- project-owned container supply chain with provenance, SBOM, scanning and keyless signing
-- policy/runtime security, reliability and cost controls separated into reviewable layers
-- real Kubernetes 1.36 local runtime evidence: Argo CD, Kyverno admission, Prometheus/SLOs, Trivy, Falco, VPA, OpenCost and a controlled recovery game day
-- live-cloud activation deliberately kept explicit rather than pretending unprovisioned infrastructure is running
-
-**→ [Documentation](https://fadyy2k.github.io/platform-engineering-eks-gitops/) · [Local Runtime Evidence](https://fadyy2k.github.io/platform-engineering-eks-gitops/LOCAL_RUNTIME/) · [Repository](https://github.com/fadyy2k/platform-engineering-eks-gitops) · [v0.7.1](https://github.com/fadyy2k/platform-engineering-eks-gitops/releases/tag/v0.7.1)**
+<sub>✓ Historical local Kubernetes runtime tests and public CI &nbsp; / &nbsp; ⏳ AWS provisioning not performed. The temporary local lab was removed after testing.</sub>
 
 ---
 
-## 🏗️ Sanitized production engineering
+### `02 // SIDE QUESTS` &nbsp; 🕹️
 
-Long-form production details no longer live in this profile. They are separated into sanitized case studies so the engineering decisions are public without publishing a real environment's attack surface.
+<table>
+  <tr>
+    <td width="33%"><a href="https://github.com/fadyy2k/depi-mind-app-v2"><img src="./assets/fady-card-mind.svg?v=5" width="100%" alt="MIND DevSecOps source repository" /></a></td>
+    <td width="33%"><a href="https://github.com/fadyy2k/depi-helloapp-infra-v2"><img src="./assets/fady-card-infra.svg?v=5" width="100%" alt="Terraform EKS infrastructure source repository" /></a></td>
+    <td width="34%"><a href="https://github.com/fadyy2k/notesapp-multi-ec2-ansible"><img src="./assets/fady-card-ops.svg?v=5" width="100%" alt="Multi-EC2 Ansible source repository" /></a></td>
+  </tr>
+</table>
 
-| Pattern | Focus |
-| --- | --- |
-| [Multi-tenant SaaS platform](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/01-multi-tenant-saas-platform.md) | isolation, releases, backups, observability, capacity |
-| [Cross-site PostgreSQL replication](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/02-cross-site-postgresql-replication.md) | private connectivity, replication health, rollback |
-| [Cloud migration with rollback](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/03-cloud-migration-with-rollback.md) | replication-first cutover, DNS, failback |
-| [Observability baseline](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/04-observability-baseline.md) | signals, alerts, runbooks |
-| [Identity hardening](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/05-identity-security-hardening.md) | MFA, mail security, DLP, rollout safety |
-| [Local-first internal AI](https://github.com/fadyy2k/engineering-case-studies/blob/main/case-studies/06-local-first-ai-platform.md) | data boundaries, RBAC, RAG, plugin/network risk |
-
-**→ [Engineering Case Studies](https://github.com/fadyy2k/engineering-case-studies)**
+**Also on the bench:** [DevSecOps visual showcase](https://github.com/fadyy2k/depi-devsecops-showcase) &nbsp; · &nbsp; [Engineering lab roadmap](https://github.com/users/fadyy2k/projects/2)
 
 ---
-
-## 🧰 Engineering stack
-
-<details>
-<summary><b>Cloud, platform, automation and security</b></summary>
-
-### Cloud / Infrastructure
-`AWS` · `OCI` · `Linux` · `Terraform` · `Kubernetes / EKS / K3s` · `Argo CD` · `Nginx` · `Proxmox` · `VMware`
-
-### Delivery / Automation
-`GitHub Actions` · `Jenkins` · `Docker / BuildKit` · `Ansible` · `Bash` · `Python` · `PM2`
-
-### Security
-`Microsoft Defender` · `FortiGate` · `CodeQL` · `Gitleaks` · `Trivy` · `Cosign` · `Kyverno` · `Falco` · `Tailscale`
-
-### Observability / Reliability
-`Prometheus` · `Grafana` · `SLO / error-budget alerts` · `OpenCost` · `game-day / recovery testing`
-
-### Data / Application
-`PostgreSQL` · `MySQL / MariaDB` · `SQL Server` · `Redis` · `Node.js` · `NestJS` · `FastAPI` · `.NET`
-
-</details>
-
----
-
-## 🏅 Credentials
-
-<details>
-<summary><b>Selected certifications and training</b></summary>
-
-| Vendor | Selected credentials |
-| --- | --- |
-| Microsoft | **SC-100** Cybersecurity Architect Expert · **SC-200** Security Operations Analyst |
-| AWS | **SAA-C03** Solutions Architect Associate · **CLF-C02** Cloud Practitioner |
-| Cisco | **CCNA** · **CyberOps Associate** |
-| IBM | Cloud Professional Architect · Cloud SRE · SkillsBuild Cybersecurity |
-| Google | IT Support Professional · Security in Google Cloud |
-| NTI / MCIT | DEPI Cisco Cybersecurity Engineer · Post Graduate Diploma AI & Modern Technologies |
-
-**30+ verifiable credentials → [Credly](https://www.credly.com/users/fady-mounir-zaghloul)**
-
-</details>
-
----
-
-## 🔬 Featured engineering repositories
 
 <div align="center">
 
-<a href="https://github.com/fadyy2k/platform-engineering-eks-gitops"><img src="https://img.shields.io/badge/01_Platform_Engineering-EKS_%7C_GitOps_%7C_SRE-844FBA?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Platform engineering" /></a>
-<a href="https://github.com/fadyy2k/depi-mind-app-v2"><img src="https://img.shields.io/badge/02_MIND_DevSecOps-Jenkins_%7C_Argo_CD-326CE5?style=for-the-badge&logo=jenkins&logoColor=white" alt="MIND DevSecOps" /></a>
-<a href="https://github.com/fadyy2k/depi-helloapp-infra-v2"><img src="https://img.shields.io/badge/03_AWS_EKS_IaC-Terraform_%7C_IAM-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="AWS EKS infrastructure" /></a>
+<img src="./assets/fady-proof-of-work.svg?v=6" width="100%" alt="Animated proof-of-work dashboard: seven platform phases, six sanitized engineering cases and two submitted upstream pull requests" />
 
-<a href="https://github.com/fadyy2k/notesapp-multi-ec2-ansible"><img src="https://img.shields.io/badge/04_Ansible_Automation-AWS_%7C_Nginx-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible automation" /></a>
-<a href="https://github.com/fadyy2k/depi-devsecops-showcase"><img src="https://img.shields.io/badge/05_Architecture_Showcase-React_%7C_Vite-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="Architecture showcase" /></a>
-<a href="https://github.com/fadyy2k/engineering-case-studies"><img src="https://img.shields.io/badge/06_Case_Studies-Architecture_%7C_Operations-34d399?style=for-the-badge&logo=readthedocs&logoColor=111827" alt="Engineering case studies" /></a>
+**[06 case studies](https://github.com/fadyy2k/engineering-case-studies)** &nbsp; ◆ &nbsp; **[Engineering delivery board](https://github.com/users/fadyy2k/projects/1)** &nbsp; ◆ &nbsp; **UPSTREAM:** [OpenCost #386](https://github.com/opencost/opencost-helm-chart/pull/386) · [Kyverno #2175](https://github.com/kyverno/website/pull/2175)
+
+<sub>Upstream pull requests were submitted; their acceptance status is maintained on GitHub.</sub>
 
 </div>
 
 ---
 
-## 📊 GitHub activity
+<div align="center">
+
+<img src="./assets/fady-tool-rack.svg?v=6" width="100%" alt="Brand-colored dark mission-control inventory of AWS, Terraform, Kubernetes, GitHub Actions, Linux, Argo CD, Prometheus, Grafana, Docker, Python, Ansible and PostgreSQL" />
+
+</div>
+
+**BEYOND THE RACK** &nbsp; // &nbsp; VMware · Proxmox · OCI · Jenkins · Bash · Nginx · SQL Server · FortiGate · Microsoft Defender · CodeQL · Gitleaks · Cosign · Kyverno · Falco · Trivy · Tailscale
+
+**CREDENTIALS** &nbsp; // &nbsp; Microsoft SC-100 / SC-200 · AWS SAA-C03 / CLF-C02 · Cisco CCNA / CyberOps · IBM cloud tracks · Google IT Support &nbsp; ↗ &nbsp; [Verified credentials](https://www.credly.com/users/fady-mounir-zaghloul)
+
+**THE OPERATOR** &nbsp; // &nbsp; 12+ years across infrastructure, operations and security. Keeping business systems dependable, and publishing testable engineering evidence. &nbsp; ↗ &nbsp; [Engineering delivery](https://github.com/users/fadyy2k/projects/1)
+
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/fadyy2k?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-<img src="https://img.shields.io/github/last-commit/fadyy2k/platform-engineering-eks-gitops?style=for-the-badge&logo=github&label=Platform%20last%20commit" alt="Platform last commit" />
-<img src="https://img.shields.io/github/v/release/fadyy2k/platform-engineering-eks-gitops?style=for-the-badge&logo=github&label=Platform%20release" alt="Platform release" />
+### `05 // STILL SHIPPING`
 
-<br/><br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=B491FF&center=true&vCenter=true&width=850&lines=Ship+it.+Secure+it.+Know+how+to+recover+it.;Make+the+complex+feel+simple.;Evidence+beats+beautiful+architecture+diagrams.)](https://git.io/typing-svg)
 
 <img src="https://streak-stats.demolab.com?user=fadyy2k&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0ea5e9&fire=34d399&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569" alt="GitHub contribution streak" />
 
-</div>
+**[Portfolio](https://fadyy2k.github.io/portfolio/) &nbsp; / &nbsp; [Let's connect](https://www.linkedin.com/in/fady-mounir-601331b6/) &nbsp; / &nbsp; [See the work](https://github.com/fadyy2k?tab=repositories)**
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b66bff,50:34d6f6,100:0d1117&height=95&section=footer" width="100%" alt="Neon footer wave" />
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1a1f35,100:0d1117&height=100&section=footer" alt="footer" />
-
-*Build for the failure path. Document the recovery path.*
 </div>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="235" viewBox="0 0 1080 235" role="img" aria-labelledby="title desc">
+<title id="title">How my brain works — animated operating system</title>
+<desc id="desc">Three dark navy neon animated modules: BUILD for architecture, SECURE for identity and policy, RECOVER for operational reliability.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1233"/><stop offset=".56" stop-color="#090D22"/><stop offset="1" stop-color="#11102B"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#AD6BFF"/><stop offset=".55" stop-color="#32D7FB"/><stop offset="1" stop-color="#BBFF72"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8097ff" stroke-width=".6" opacity=".12"/></pattern>\n <linearGradient id="panelScan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#32D7FB" stop-opacity="0"/><stop offset=".5" stop-color="#32D7FB" stop-opacity=".13"/><stop offset="1" stop-color="#B7FF8A" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1078" height="233" rx="18" fill="url(#bg)" stroke="#6256a0" stroke-width="1.4"/>
+<rect x="4" y="4" width="1072" height="226" rx="16" fill="url(#grid)"/>\n<rect x="-180" y="4" width="180" height="226" rx="16" fill="url(#panelScan)" opacity=".9">\n <animate attributeName="x" from="-180" to="1080" dur="7.5s" repeatCount="indefinite"/>\n</rect>
+<circle cx="29" cy="23" r="3.2" fill="#B7FF8A"><animate attributeName="opacity" values="1;.35;1" dur="3.4s" repeatCount="indefinite"/></circle>
+<text x="42" y="27" font-family="Consolas,monospace" font-size="11" letter-spacing="1.7" fill="#d4c6f1">HOW MY BRAIN WORKS <tspan fill="#B7FF8A"> / OPERATING SYSTEM</tspan></text>
+<text x="870" y="27" font-family="Consolas,monospace" font-size="10" letter-spacing="1.5" fill="#9688c7">MISSION CONTROL / 03</text>
+<path d="M20 43H1059" stroke="#313760"/>
+<path d="M20 43H270" stroke="url(#line)" stroke-width="2"/>
+<g transform="translate(21 58)" font-family="Arial,Helvetica,sans-serif">
+  <rect x="1" y="1" width="329" height="156" rx="13" fill="#191438" stroke="#ad85ff" stroke-width="1.35" opacity=".98"/>
+  <path d="M16 21H312" stroke="#ad85ff" stroke-width=".85" opacity=".43"/>
+  <g stroke="#AD85FF" stroke-width="2" fill="none" stroke-linejoin="round"><rect x="30" y="36" width="43" height="35" rx="6"/><path d="M52 71v12M36 84h33m-28-36 8 6-8 6m14 0h9"/></g><circle cx="70" cy="43" r="2.9" fill="#C8B5FF"><animate attributeName="opacity" values=".25;1;.25" dur="3.1s" repeatCount="indefinite"/></circle>
+  <text x="101" y="45" font-family="Consolas,monospace" font-size="10.3" letter-spacing="1.4" fill="#ad85ff">MODE_01</text>
+  <text x="101" y="75" font-size="27" font-weight="900" fill="#F6F4FF">BUILD</text>
+  <text x="18" y="107" font-size="13.4" fill="#DAE4F7">Infra that scales.</text>
+  <text x="18" y="126" font-size="12.8" fill="#8E9DBD">Delivery you can trust.</text>
+  <path d="M18 144H312" stroke="#ad85ff" stroke-opacity=".45" stroke-dasharray="12 9"/>
+  <path d="M18 144H312" stroke="#ad85ff" stroke-width="1.8" stroke-dasharray="12 290">
+   <animate attributeName="stroke-dashoffset" from="0" to="-305" dur="5.2s" repeatCount="indefinite"/>
+  </path>
+  <text x="309" y="18" font-size="8.8" font-family="Consolas,monospace" text-anchor="end" fill="#ad85ff">ARCHITECT FOR CHANGE</text>
+ </g>
+<g transform="translate(373 58)" font-family="Arial,Helvetica,sans-serif">
+  <rect x="1" y="1" width="329" height="156" rx="13" fill="#112B39" stroke="#54DFFF" stroke-width="1.35" opacity=".98"/>
+  <path d="M16 21H312" stroke="#54DFFF" stroke-width=".85" opacity=".43"/>
+  <path d="M49 34l24 10v20c0 15-11 24-24 30-13-6-24-15-24-30V44Z" fill="none" stroke="#54DFFF" stroke-width="2.5" stroke-linejoin="round"/><path d="m37 61 8 8 17-19" fill="none" stroke="#54DFFF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M49 38l20 8v18c0 12-9 19-20 24" fill="none" stroke="#9BEFFF" stroke-width="1.2" stroke-dasharray="8 9"><animate attributeName="stroke-dashoffset" from="0" to="-34" dur="5s" repeatCount="indefinite"/></path>
+  <text x="101" y="45" font-family="Consolas,monospace" font-size="10.3" letter-spacing="1.4" fill="#54DFFF">MODE_02</text>
+  <text x="101" y="75" font-size="27" font-weight="900" fill="#F6F4FF">SECURE</text>
+  <text x="18" y="107" font-size="13.4" fill="#DAE4F7">Identity and policy.</text>
+  <text x="18" y="126" font-size="12.8" fill="#8E9DBD">Evidence before incidents.</text>
+  <path d="M18 144H312" stroke="#54DFFF" stroke-opacity=".45" stroke-dasharray="12 9"/>
+  <path d="M18 144H312" stroke="#54DFFF" stroke-width="1.8" stroke-dasharray="12 290">
+   <animate attributeName="stroke-dashoffset" from="0" to="-305" dur="6.6s" repeatCount="indefinite"/>
+  </path>
+  <text x="309" y="18" font-size="8.8" font-family="Consolas,monospace" text-anchor="end" fill="#54DFFF">VERIFY EVERY BOUNDARY</text>
+ </g>
+<g transform="translate(725 58)" font-family="Arial,Helvetica,sans-serif">
+  <rect x="1" y="1" width="334" height="156" rx="13" fill="#1a2930" stroke="#B7FF8A" stroke-width="1.35" opacity=".98"/>
+  <path d="M16 21H318" stroke="#B7FF8A" stroke-width=".85" opacity=".43"/>
+  <path d="M71 54a23 23 0 1 0-1 20M71 38v17H54" fill="none" stroke="#B7FF8A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><path d="m36 59 11 10 21-21" stroke="#B7FF8A" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="49" cy="59" r="34" fill="none" stroke="#B7FF8A" stroke-dasharray="10 16" stroke-width="1" opacity=".35"><animateTransform attributeName="transform" type="rotate" from="0 49 59" to="360 49 59" dur="21s" repeatCount="indefinite"/></circle>
+  <text x="101" y="45" font-family="Consolas,monospace" font-size="10.3" letter-spacing="1.4" fill="#B7FF8A">MODE_03</text>
+  <text x="101" y="75" font-size="27" font-weight="900" fill="#F6F4FF">RECOVER</text>
+  <text x="18" y="107" font-size="13.4" fill="#DAE4F7">SLOs and game days.</text>
+  <text x="18" y="126" font-size="12.8" fill="#8E9DBD">Rollback is engineered.</text>
+  <path d="M18 144H318" stroke="#B7FF8A" stroke-opacity=".45" stroke-dasharray="12 9"/>
+  <path d="M18 144H318" stroke="#B7FF8A" stroke-width="1.8" stroke-dasharray="12 290">
+   <animate attributeName="stroke-dashoffset" from="0" to="-305" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <text x="316" y="18" font-size="8.8" font-family="Consolas,monospace" text-anchor="end" fill="#B7FF8A">STAY CALM UNDER LOAD</text>
+ </g>
+</svg>
