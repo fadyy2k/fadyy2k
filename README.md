@@ -5,11 +5,14 @@
 
 <br>
 
-<img src="./assets/fady-human-tech-strip.svg?v=6" width="100%" alt="Dark neon Engine Room panel with Platform, Automation, Observability and Resilience, matching the Fady Zaghloul hero" />
+<!-- Original animated GIF stays untouched; it now takes the Engine Room's former visual slot. -->
+<img src="./assets/coding.gif" width="58%" alt="Original animated coding GIF, preserved" />
 
 <br>
 
-*My kind of fun? Turning "it works on my machine" into "we can deploy it, secure it and recover it."* ☕
+<sub>Me, when the logs finally make sense. 😎</sub>
+
+<br>
 
 <!-- 2 x 2 layout keeps link labels and individual animated icons legible at GitHub's README width. -->
 <table>
@@ -25,13 +28,12 @@
 
 <br>
 
-<!-- Original animated GIF is unchanged and stays visible. The old dark pipeline illustration
-     remains preserved as an asset in the repo, but isn't shown in this Option A layout. -->
-<img src="./assets/coding.gif" width="350" alt="Original coding GIF, preserved" />
+<!-- Engine Room moved here from directly below the hero, swapping positions with coding.gif. -->
+<img src="./assets/fady-human-tech-strip.svg?v=7" width="100%" alt="Dark neon Engine Room panel with Platform, Automation, Observability and Resilience, matching the Fady Zaghloul hero" />
 
 <br>
 
-<sub>Me, when the logs finally make sense. 😎</sub>
+*My kind of fun? Turning "it works on my machine" into "we can deploy it, secure it and recover it."* ☕
 
 </div>
 
